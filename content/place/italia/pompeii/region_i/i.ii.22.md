@@ -3,79 +3,64 @@ gre_id: "10a13bd83c"
 aliases: [/id/10a13bd83c]
 type: garden
 title: "I.2.22"
-date: 2021-03-14T17:08:50Z
 latlon: [ 40.750870, 14.493866 ]
 author: Wilhelmina Jashemski
-editor: Jessica Venner
+contributor: Jessica Venner
+date: 2021-04-21
+modified: 2025-06-29
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "amphorae (storage vessels)"
- - "cauponae"
- - "pillars"
- - "porticoes"
 ---
 
 ## Province
-[Italia]({{<relref "../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+
+- [Italia]({{<relref "../..">}})
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
-[Pompeii]({{<relref "..">}}) \
-[Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
+- [Pompeii]({{<relref "..">}})
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
-### Location Description
+## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region I]({{<relref ".">}})
 ## Insula
+
 [Insula II]({{<relref "#">}})
 
-### Keywords
-- [amphorae (storage vessels)](http://vocab.getty.edu/page/aat/300148696)
-- [cauponae](http://vocab.getty.edu/page/aat/300005208)
-- [pillars](http://vocab.getty.edu/page/aat/300264605)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
+## Keywords
+
+- {{< keyword "amphorae" >}}
+- {{< keyword "cauponae" >}}
+- {{< keyword "pillars" >}}
+- {{< keyword "porticoes" >}}
 
 ## Garden
+
 Garden serving a [caupona](http://vocab.getty.edu/page/aat/300005208).
 
-### Garden Description
+## Garden Description
+
 This [caupona](http://vocab.getty.edu/page/aat/300005208) was excavated in 1873 but the reports offer insufficient details to determine if the open area had been planted. The room was entered directly from the street and the open area, had a [portico](http://vocab.getty.edu/page/aat/300004145) on the north and east supported by one [pillar](http://vocab.getty.edu/page/aat/300264605). Fifteen [amphorae](http://vocab.getty.edu/page/aat/300148696) with inscriptions were uncovered here.
 
-### Bibliography
+## Bibliography
 
-* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 45 [(worldcat)](https://www.worldcat.org/title/descrizione-di-pompei/oclc/9528380)    
-* GiornSc, n.s., 1874-1877, col.60  
-* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 24-25 [(worldcat)](https://www.worldcat.org/title/gardens-of-pompeii-herculaneum-and-the-villas-destroyed-by-vesuvius-volume-2-appendices/oclc/222353569)  
-* Mau, A. 1874. *BdI*, pp.263  
-* Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 13 [(worldcat)](https://www.worldcat.org/title/scavi-di-pompei-dal-1873-al-1878/oclc/254502217&referer=brief_results)  
+* Fiorelli, G. 1875. *Descrizione di Pompei*, p. 45 [(worldcat)](https://search.worldcat.org/title/9528380)
+* GiornSc, n.s., 1874-1877, col.60
+* Jashemski, W.F. 1993, *Gardens of Pompeii: Herculaneum and the villas destroyed by Vesuvius. Vol. II, Appendices*, pp. 24-25 [(worldcat)](https://search.worldcat.org/title/222353569)
+* Mau, A. 1874. *BdI*, pp.263
+* Viola, L. 1879. *Gli scavi di Pompei dal 1873 al 1878*, p. 13 [(worldcat)](https://search.worldcat.org/title/254502217)
 
-<!--#### Periodo ID-->
+## Places
 
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+- {{< id vocab="Pleiades" id="222138654" name="Regio I, Pompeii" >}}
+- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
-#### Pleiades ID
-[456321707](https://pleiades.stoa.org/places/456321707)
+##  Excavation Dates
 
-#### TGN ID
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
-
-###  Excavation Dates
 Excavated 1870.
 
-### Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-
-### Publication date
-
-21 Apr 2021
-<!-- Format: dd MONTH_NAME yyyy -->
-
-<!-- DATE -->

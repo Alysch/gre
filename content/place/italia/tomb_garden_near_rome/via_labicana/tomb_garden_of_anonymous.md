@@ -3,84 +3,48 @@ gre_id: "289bfad426"
 aliases: [/id/289bfad426]
 type: garden
 title: "Tomb Garden of Anonymous"
-date: 2020-11-30T10:54:29-07:00
 latlon: [ 0, 0 ]
-author:
-editor: Yuyao Liu
+author: John Bodel
+contributor: Yuyao Liu
+date: 2021-04-21
+modified: 2025-06-29
 draft: true
-
-categories:
- - "Italia"
 ---
 
-## Province
-[Italia]({{<relref "../../../..">}})
-
 ## Location
-[Via Labicana](https://pleiades.stoa.org/places/74935822)
-[Tomb Garden of Anonymous](https://pleiades.stoa.org/places/60995119)
 
-<!--### Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
+- {{< id vocab="Pleiades" id="74935822" name="Via Labicana" >}}
 
 ## Sublocation
+
 Via Labicana
 
-### Sublocation Description
+## Sublocation Description
+
 An ancient Roman road connecting Rome and Labicum.
 
-
 ## Garden
+
 Tomb Garden of Anonymous
 
-### Keywords
-- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
-- [sepulchral monuments](http://vocab.getty.edu/page/aat/300005909)
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
+## Keywords
 
+- {{< keyword "epitaphs" >}}
+- {{< keyword "sepulchral monuments" >}}
+- {{< keyword "tombs" >}}
 
-### Garden Description
+## Garden Description
 
 A fragmentary marble slab found beside the Via Labicana near the cemetery of Centocelle and recording the end of an epitaph addressed in part to an Aurelius identifies a cepotaphium in the formulaic clause prohibiting misuse or alienation of the tomb property.
 
+## Dates
 
-
-
-
-### Dates
 Unspecified
 
-### Bibliography
-- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](http://www.worldcat.org/oclc/886794800)
+## Bibliography
 
+- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane,* Bullettino della Commissione Archeologica Comunale di Roma [worldcat](https://search.worldcat.org/title/886794800)
 
+## Places
 
-
-
-
-
-
-
-
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
-#### Pleiades ID
-
-[60995119](https://pleiades.stoa.org/places/60995119)
-
-
-
-### Contributor
-John Bodel
-
-
-### Publication date
-
-
-21 Apr 2021
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->
+<!-- {{< id vocab="Pleiades" id="60995119" name="Tomb Garden of Anonymous" >}} is invalid -->

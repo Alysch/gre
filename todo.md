@@ -1,150 +1,145 @@
-
-# New for Launch on April 15, 2021
-
-- [ ] Set `draft: true` in:
-    - [ ] Gallia
-    - [ ] Hispania
-    - [ ] Other ?
-- [ ] Update template with new look and feel
-- [ ] Page should have an alphabetical list of authors with hyperlinks to searches for those names, so that if someone clicks on it, it pulls up the search results for that author.
-
 # General
 
-- [x] Make a really cool project
-- [ ] Check all the keywords for one standard getty url
 - [ ] Check for all comments containing some mention of "cross references", add links to relevant pages
-- [x] Go through punchlist for each article
-- [x] Get province information into general province page (somehow)
-- [x] Get keywords into tags list in header (as in bancroft example)
-- [x] Get geographic regions into sidebar using categories list (as in bancroft)
-- [x] DONT Put `lead:` in the header for each article to make loglines/subtitles (e.g. Dalmatia/salona/salona_tomb...)
-- [ ] Check that all keywords are in controlled vocab (Programmatically)
-- [ ] Figure out why there are so many unattached images (e.g. Achaea Nemea has a figure which is not in the proper images folder)
-- [x] Deal with empty stuff in headers (by commenting out for now)
 - [ ] Deal with empty stuff that is now commented out (by deleting)
-- [ ] Should "urban villas" be removed and (if necessary) replaced with "villae urbanae"?
-- [ ] Deal with all smart quotes (“”)
-- [ ] Fix any quotes in `figure` attributes
-- [ ] Redo all pub dates as YMD
-- [ ] Implement [LOC Datetime format](https://www.loc.gov/standards/datetime/)
-- [x] Add a keyword that means "hasInscription"
-- [x] Check for any ">>>>>>" merge conflict stuff in the articles
-- [x] Take every heading down one level
 - [ ] Add a takedown notice (copy from DCAA/DSCC)
-- [x] Suppress empty headings
 - [ ] Finish creating documentation
-- [x] Change keywords to bulleted list
 - [ ] Fix all links that have [text](#) or [text](link)
-
-# Article Punchlist
-
-- Title in title case with spaces?
-- Province `relref` correct?
-- Location
-    - folder `relref`
-    - Pleiades ID
-- Keywords, separated by newline (`\` at end of line)
-- Sublocation `relref` present? -> comment out for now
-- Pleiades ID
-    - Numbers in link?
-    - `"(Pleiades)"` in link? -> delete
-    - Two links present, one with `relref` -> delete `relref`
-- figures linked correctly?
-- check all `ref`s to other gardens, should be `relref`s
-
-# Articles in need of a second look
-
-- achaea/corinth/corinth_circus, images with no links (image folder empty -JEM)
-- ger sup/dietikon, no orcid for Christa Ebnöther
-- ger sup/vallon, two map images are broken, replace with new
-
-
-# Image cropping and straightening
-
-- [x] achaea
-- [x] britannia
-- [x] dacia_traiana
-- [x] dalmatia
-- [x] germania_inferior
-- [x] germania_superior
-- [x] macedonia
-- [x] pannonia
+- [ ] fix search for plurals (lunr matches the singular, but then we can't highlight in the snippet)
+- [ ] consider finding places in search (not just gardens)
 
 # Pompeii Notes/Issues
 
-- Titles (I.ii.10). Right now if a location doesn't have a specific name, using the I.ii.10 ID.
-- [x] Artifacts: TBD on how to note
 - [x] Green (additions to entries?). What to do? There appears to be ORANGE now as well.
 - [x] Add span style color families to new green parts of entries.
 - [ ] Someone should relook over the bibs to see if they know what book the author is referring to, as I can't figure it out with just an author last name.
-- [x] Image PATHs might need modifying.
-- [x] Note to self: relook over entries and add [statue] keyword.
-- [x] Note if it has literary evidence/artifacts.
-- [x] Issue: I have found a entry that is House of Epidius Fortunatus (I.iii.3) and another that is I.iii.3. If there is a distinction, should we make it clearer?
-- [x] *Aedicula lararium* added as one keyword merged from the two currently listed.
-- [x] Should I include excavations dates in date section?
-- [x] Province edits for keywords
+- [x] Note to self: relook over entries and add [statue] keyword (check this AFTER province/location descriptions have been moved out the garden articles)
 
+# Random issues
 
-# TODO 2025
-
-- [x] merge nav-merge into master-new (which will be renamed "main" and become the default branch)
-- [x] remove unused layouts
-- [x] remove PROVINCE_ID from front matter - province is part of the directory structure
-- [ ] move province descriptions from garden to separate files?
 - [ ] recover gallia aquitania entries? https://github.com/roman-gardens/gre/commit/06b191b293c531a31dca04631b02d031a3a1b32d
 - [ ] document how theme files should be edited (not in mainroad directory!)
 - [ ] Bibliography first item actually two? https://roman-gardens.github.io/province/italia/rome/regio_x_palatium/domus_augustana/
-- [x] move all images to separate repo? -- experiment and assess pros/cons
-- [ ] alternative names -- example https://roman-gardens.github.io/test-a/id/5c8aada6d5
-- [ ] standardize and document recommendations for entry titles
-        - House name, or house number, or both?
-        - Roman/Arabic numerals for region, insula, house (e.g. Pompeii VIII.4.30 vs VIII.iv.30)
-        - ideally, don't depend on upper/lowercase for meaning
-- [ ] consistent heading levels in articles (h1, h2, h3, etc.)
-- [ ] add author/editor/date metadata to (top or bottom?) of article -- no need to duplicate in the markdown
-    - use a partial that will use the frontmatter values and automatically add ORCID, email, etc.
-    - or link to a separate person page, [like Pleiades does](https://pleiades.stoa.org/author/thomase)
-- [ ] frontmatter quoting: omit, unless ambiguous
+- [ ] how to handle alternative names of a garden -- example https://roman-gardens.github.io/test-a/id/5c8aada6d5
+- [ ] many dupl images in thugga -- warning!  the "2" image may be older (missing additional label/green patch)
+- [ ] some photos we want lower resolution (so copyright holder can control access to full resolution)
+- [ ] link to reuse/take-down policy in image captions
+- [ ] generally improve the search
+
+
+# Cleanup
+
+- set permissions on image repo to prevent deletion, modification?
+- [ ] images: remove alt unless it provides additional info
+- [ ] move content from garden entries to the province _index.md
+- [ ] add gre_id/aliases for places, update citation example
+- [ ] DON'T LINK place searches from place pages (only from garden pages)
+- [ ] move keywords to below bibliography
+- [ ] id shortcode for people (perseus authors like "Pliny the Elder")
+- [ ] excavation dates -- missing from archetype and some gardens
+- [ ] rename ## Places to something like "Linked Places" or "Place IDs" (should people be listed under Keywords or Linked IDs or have their own section?)
+- [ ] backslashes \
+- [ ] search: use lunr to remove stopwords from searches (doing this manually for just a few words now: the of at etc.)
+- [ ] fix or remove empty links -- search for "(#)"
+- [ ] update Leaflet from 1.6 to 1.9.4
+- [ ] cleanup double/triple spaces (skip arabia-petragarden!) AFTER we have cleaned up spaces from image filenames
+
+
+
+
+
+
 
 # from 2025-03-04, 2025-04-04, 2025-05-06, 2025-06-11 meetings
+
 - [ ] when we restart blog/news, add the posting date and snippet to the list of posts
 - [ ] people: Change Pleiades liaison from Gabriel to Tom Elliott?
 - [ ] maps: fix/remove blank maps
-- [ ] documentation: rewrite software setup
-- [ ] list of keywords as glossary (option to search GRE or go to Getty Thesaurus, etc.)
-- [ ] keywords section in article text vs tags in front matter
-- [x] fix capitalization in garden list for "VIa", "VIlla" etc. (getting mangled by Roman numeral processing)
+- [ ] public list of keywords as glossary (similiar to /meta page)
 - [ ] garden list sort order (currently alphabetical, but most recent first?)
 - [ ] browse by province -- only list most recent updates?
-- [ ] move province description to browse page for the province
-- [x] "garden entries" have been published
-- [x] remove numbers like 563 from Herculaneum entry titles
-- [ ] shortcodes for Pleiades, TGN, Periodo, POWO, AAT, Perseus, Worldcat, etc.
 
-- [ ] workflow for simplest way to add a new garden/place ?
-- [x] "Places in ... " (sublocation box)
-- [x] "place" instead of "province" type
-- [ ] "contributor" instead of "editor" in front matter
-- [ ] add "modified" date (and try to simplify date to omit time)
-- [ ] place archetype: date, description, image/plan/map, bibliography, keywords, place(s), linked IDs
-- [ ] add gre_id/aliases for places, update citation example
-- [x] meta page that lists all places and gardens, sortable
-- [ ] fix or remove empty links -- search for "(#)"
+# Documentation
 
-# Province pages
-- [ ] review which sections should be retained in province pages (and also for gardens...)
-- [ ] move content from garden entries to the province _index.md
-- [ ] generate new "gre_id" and "alias" values for new province pages
-- [ ] fix links from gardens to people pages
+- installing software on Windows
+    - vscode
+    - git
+        - On Windows: winget
+    - hugo
+        - winget install Hugo.Hugo
+        - winget upgrade hugo
+- installing software on Mac
+    - vscode
+    - git
+    - hugo
+        - brew install hugo
+        - Or, if using MacPorts: sudo port install hugo
+- [ ] snippets for shortcodes! id, image, keyword (type and then press CTRL-SPACE)
+- [ ] use \" to escape any quotes within a caption
+- [ ] frontmatter quoting: omit, unless ambiguous
+- [ ] standardize and document recommendations for entry titles
+    - [ ] House name, or house number, or both?
+    - [ ] Roman/Arabic numerals for region, insula, house (e.g. Pompeii VIII.4.30 vs VIII.iv.30)
+    - [ ] ideally, don't depend on upper/lowercase for meaning
+- [ ] rewrite software setup
+- [ ] workflow for simplest way to add a new garden/place? ("hugo new" requires path, but will set the GRE_ID, etc.)
 
-# Images
-- [x] rename 37 JPG files to jpg
-- [ ] many dupl images in thugga -- warning!  the "2" image may be older (missing additional label/green patch)
-- [x] convert .tif, .ai, and .ppt files to .jpg or .png
-- [ ] some photos we want lower resolution (so copyright holder can control access to full resolution)
-- [ ] link to reuse/take-down policy in image captions
 
+# Article Guidelines
+
+- filename
+    - all lowercase, no special characters (a-z 0-9 _ - . only, NO SPACES!)
+- frontmatter
+    - title
+        - in title case with proper punctuation as needed
+        - use proper diacritics (TODO: guidance on how to add diacritics -- maybe a )
+        - escape any double-quotes with backslash \"
+    - latlon (if known)
+        - in the hugo server preview, zoom map to location
+        - CTRL-CLICK the map to copy the coordinates
+        - paste into the "latlon" field in the frontmatter
+    - author
+        - of the article text
+    - contributor
+        - your name goes here!
+    - date
+        - original publication date (update this when you are ready to publish)
+    - modified
+        - update this if there are significant edits later
+- images
+    - guidelines for image filename, size, format
+    - new images can be added to the gre-images repo via the GitHub website
+    - upload images to the same place in the province hierarchy as the article is
+    - to add the image to an article, type "image" and press CTRL-SPACE and select "GRE image shortcut"
+    - check the hugo server preview to check if the image is linked correctly
+    - file = filename and extension "my-image.jpg"
+    - caption = caption text (should all figures be numbered for the article??)
+    - credit = "Drawing by...", "Gauckler, P., 1904, pp.16-17", etc. -- standardize format?
+    - alt = "" in most cases, unless we want to add additional description when the reader cannot see the image -- see https://webaim.org/techniques/alttext/ for guidance
+- bibliography
+- keywords
+    - to add a keyword, type "keyword" and press CTRL-SPACE and select "GRE keyword shortcut"
+- places
+    - to add a place, type "id" and press CTRL-SPACE and select "GRE id shortcut"
+- comment out headers of any empty sections
+
+# Questions/Discussion
+
+- People names -- when to include middle initial?
+- People links/pages for everyone, or just prominent contributors?
+- keywords like lucus, stagnum, textrina that are not proper AAT terms
+- "literary gardens" keyword okay, but do we really need "archaeological gardens"? (currently commented out in the relatively few articles that have it, but nearly all the gardens are arch.)
+- exedrae (AAT, indoor vs outdoor)
+- linking words within paragraphs -- is this necessary?  too much?  consistent?
+- listing pleiades authors as contributors to GRE? Example: https://roman-gardens.github.io/test-drafts/place/italia/region_x/tergeste/villa_of_the_bath/#contributor (doing so makes it look like they helped write the garden article)
+- translator in frontmatter (2 gardens)
+- in the text of the article, Divya suggested having dates at the top -- do we want both of these at top?  (They could also logically go near bottom, after bibliography and before keywords/places)
+    - date of the garden (how to phrase this?  dates of use?)
+    - excavation date
+- double angle quotes like « Pluton » -- can these be converted to normal " quotes
+- what is green highlighting for???
+    - Example: https://roman-gardens.github.io/test-drafts/place/italia/pompeii/region_i/insula_ix/house_5/house_of_the_fruit_orchard/
+- add area editors to province pages?
 
 
 # User forks

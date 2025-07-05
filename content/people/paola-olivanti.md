@@ -1,9 +1,8 @@
 ---
-date: 2025-06-14T13:33:32-04:00
-modified: 2025-06-14T13:33:32-04:00
 type: people
 title: Paola Olivanti
-draft: false
+date: 2025-06-18
+draft: true
 ---
 
 <!-- position title, institution -->
@@ -15,12 +14,9 @@ draft: false
 
 <!--
 ## Website
-
 -->
 
-<!--
-## Linked IDs
-{{< id src="" id="" title="" >}}
->
+{{< id vocab="WorldCat" id="E39PCjrmTW8gHk8kFF4kTXBGh3" name="Paola Olivanti" >}}
+
 
 <!-- Description -->

@@ -3,95 +3,61 @@ gre_id: "011acd8815"
 aliases: [/id/011acd8815]
 type: garden
 title: "House of Industrius (Maison d'Industrius)"
-date: 2020-09-29T09:49:36-04:00
 latlon: [ 36.607458, 10.172291 ]
 author: Amina-Aïcha Malek
-editor: Jinyi Yang
+contributor: Jinyi Yang
+date: 2021-04-21
+modified: 2025-06-29
 draft: true
-
-categories:
-  - "Africa Proconsularis"
-tags:
- - "domus"
 ---
 
-## Province
-[Africa Proconsularis]({{<relref "..">}}) \
-[Africa proconsularis (Pleiades)](https://pleiades.stoa.org/places/991341)
-
-### Province Description
-The history of Roman Africa begins in 146 BC with the destruction of Carthage and the establishment of the province of Africa in the most fertile part of the Carthaginian Empire.  The new province covered about 5000 square miles (17,172 square kilometers) of the northern part of modern Tunisia.  A *praetor* governed the area from his headquarters at Utica.  The Romans inherited a thriving agriculture developed by the Carthaginians.  The climate was hospitable.  Wheat and barley were the most important cereals; wine and olive oil were also produced and there were various fruit trees.
-<!-- DESCRIPTION -->
-
-
 ## Location
-[UTHINA (Oudna)]({{<relref ".">}}) \
-[UTHINA (Oudna) Tunisia(Pleiades)](https://pleiades.stoa.org/places/315247)
 
-### Location Description
+- [UTHINA (Oudna)]({{<relref ".">}})
+- {{< id vocab="Pleiades" id="315247" name="UTHINA (Oudna) Tunisia" >}}
+
+## Location Description
+
 Located to the Southeast of the amphitheater, this house was laid out around a peristyle garden of 10 columns that connected by a low wall. A semicircular basin extended into the garden on the NE facing the reception room.
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--### Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Garden
 
 House of Industrius (Maison d'Industrius)
 
-### Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
-- [colonnade](http://vocab.getty.edu/page/aat/300002613)
-- [vestibules](http://vocab.getty.edu/page/aat/300083076)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
+## Keywords
 
-### Garden Description
+- {{< keyword "domus" >}}
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "vestibules" >}}
+- {{< keyword "cisterns" >}}
+
+## Garden Description
 
 Located to the Southeast of the amphitheater, this house was laid out around a peristyle garden of 10 columns that connected by a low wall. A semicircular basin extended into the garden on the NE facing the reception room.
 
 
+<!-- ## Maps -->
 
-<!--### Maps-->
+## Plans
+
+{{< image file="#" caption="Fig.1: Plan of the House of industrius" credit="" alt="" >}}
 
 
-### Plans
-{{< image src="#" alt="Fig.1: Plan of the House of industrius" title="Fig.1: Plan of the House of industrius (right statement)." >}}
+<!-- ## Images -->
 
+<!-- {{< image file="AFR_Uth_Ind_Malek.jpg" caption="Fig. 1: Plan of the House of Industrius." credit="Photo courtesy of Amina-Aïcha Malek." alt="" >}} -->
 
-<!--### Images-->
-
-<!--{{< image src="AFR_Uth_Ind_Malek.jpg" alt="Fig. 1: Plan of the House of Industrius. Photo courtesy of Amina-Aïcha Malek." title="Fig. 1: Plan of the House of Industrius. Photo courtesy of Amina-Aïcha Malek.(Rights statement)" >}}-->
-
-### Dates
+## Dates
 
 Unspecified
 
-### Bibliography
+## Bibliography
 
-* Ben Hassen, H., Maurin, L., *Oudna (Uthina) La découverte d’une ville antique de Tunisie*, Paris, 1998.[(worldcat)](http://www.worldcat.org/oclc/492084212)
-* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.330-332.  [(worldcat)](http://www.worldcat.org/oclc/989088620)
+* Ben Hassen, H., Maurin, L., *Oudna (Uthina) La découverte d'une ville antique de Tunisie*, Paris, 1998.[(worldcat)](https://search.worldcat.org/title/492084212)
+* Bullo, S., Ghedini, F., *Amplissimae atque ornatissimae domus: l'edilizia residenziale nelle città della Tunisia romana*, Rome: Edizioni Quasar, 2003, p.330-332.  [(worldcat)](https://search.worldcat.org/title/989088620)
 
+## Places
 
-#### Pleiades ID
+- {{< id vocab="Pleiades" id="315247" name="Uthina" >}}
+- {{< id vocab="TGN" id="7024022" name="Oudna (deserted settlement)" >}}
 
-[315247](https://pleiades.stoa.org/places/315247)
-
-#### TGN ID
-
-[7024022](http://vocab.getty.edu/page/tgn/7024022)
-
-### Contributor
-[Amina-Aïcha Malek](http://worldcat.org/identities/lccn-n2012075871/) (ORCID: [0000-0002-1628-615X](https://orcid.org/0000-0002-1628-615X))
-
-### Publication date
-
-
-21 Apr 2021

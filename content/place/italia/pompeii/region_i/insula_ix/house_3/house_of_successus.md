@@ -3,32 +3,22 @@ gre_id: "fe162e4efd"
 aliases: [/id/fe162e4efd]
 type: garden
 title: "House of Successus (I.ix.3)"
-date: 2020-08-09T17:59:16-04:00
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
-editor: June Dorsch
+contributor: June Dorsch
+date: 2021-04-21
+modified: 2025-06-29
 draft: true
-
-categories:
- - "Italia"
 ---
-
-## Province
-
-[Italia]({{<relref "../../../..">}})
 
 ## Location
 
-[Pompeii]({{<relref "../../..">}}) \
-[Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
+- [Pompeii]({{<relref "../../..">}})
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Sublocation
 
 [Region I]({{<relref "../..">}})
-
-<!--### Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Insula
 
@@ -42,85 +32,58 @@ categories:
 
 House of Successus (I.ix.3)
 
-### Keywords
+## Keywords
 
-- [archaeological garden](#)
-- [atriums (Roman halls)](http://vocab.getty.edu/page/aat/300004097)
-- [cubicula (domestic spaces)](http://vocab.getty.edu/page/aat/300004367)
-- [graffiti (casual notations)](http://vocab.getty.edu/page/aat/300015613)
-- [inscription](#)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [statues](http://vocab.getty.edu/page/aat/300047600)
-- [statuettes (free-standing sculpture)](http://vocab.getty.edu/page/aat/300312262)
-- [tables (support furniture)](http://vocab.getty.edu/page/aat/300039548)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "atriums" >}}
+- {{< keyword "cubicula" >}}
+- {{< keyword "graffiti" >}}
+- {{< keyword "inscriptions" >}}
+- {{< keyword "mural paintings" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "statues" >}}
+- {{< keyword "statuettes" >}}
+- {{< keyword "tables" >}}
 
-### Garden Description
+## Garden Description
 
 A portrait of a little boy painted on the north wall of the *cubiculum*, to the left of the *atrium*, with the graffito PVER/SUCCUSSVS (*CIL* IV. 9992a) gave this house its name. Excavated in 1952, the garden (a) at the rear of the house had a *portico*, and a table base carved as a statuette of a small boy with a dove (Pompeii inv. no. 20395) was discovered in the north portico. Fig. 3, Fig. 4. <span style="color:orange">The room in the southwest corner of the garden (b) had a garden representation on the large white middle panel on the south wall of the room. It was framed by a narrow reddish-brown border and painted in shades of brown and white on a light blue-green background. Two gardens enclosed by a wooden fence contained an open apse-shaped area in between them with a round pool. A jet in the center jetted water which descended in two separate streams. The gardens on the side were cut off by the frame. A figure across the front of the painting was perhaps a fence defining a passageway.</span> Fig. 5.
 
-<!--### Maps-->
+<!-- ## Maps -->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
+## Plans
 
-NEW WAY ↓↓↓↓
-{{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
--->
+{{< image file="../../fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}
 
-### Plans
+{{< image file="../region-i-insula-ix.png" caption="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44" credit="" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." >}}
 
-{{< image src="../../fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+## Images
 
-{{< image src="../region-i-insula-ix.png" alt="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44." title="Fig. 2: Plan of Region I, insula ix, plan in Jashemski, *Gardens*, plan 12, p. 44 (Rights Statement)." >}}
+{{< image file="Fig_51_I.ix.3_18.15.59.jpg" caption="Fig. 3: 18.15.59, S.A. Jashemski" credit="" alt="Fig. 3: 18.15.59, S.A. Jashemski." >}}
 
-### Images
+{{< image file="Fig_52_I.ix.3_18.16.59.jpg" caption="Fig. 4: 18.16.59, S.A. Jashemski" credit="" alt="Fig. 4: 18.16.59, S.A. Jashemski." >}}
 
-{{< image src="Fig_51_I.ix.3_18.15.59.jpg" alt="Fig. 3: 18.15.59, S.A. Jashemski." title="Fig. 3: 18.15.59, S.A. Jashemski (Rights Statement)." >}}
+{{< image file="Fig_53_I.ix.3_18.22.59.jpg" caption="Fig. 5: 18.22.59, S.A. Jashemski" credit="" alt="Fig. 5: 18.22.59, S.A. Jashemski." >}}
 
-{{< image src="Fig_52_I.ix.3_18.16.59.jpg" alt="Fig. 4: 18.16.59, S.A. Jashemski." title="Fig. 4: 18.16.59, S.A. Jashemski (Rights Statement)." >}}
-
-{{< image src="Fig_53_I.ix.3_18.22.59.jpg" alt="Fig. 5: 18.22.59, S.A. Jashemski." title="Fig. 5: 18.22.59, S.A. Jashemski (Rights Statement)." >}}
-
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 1952
 
-### Bibliography
+## Bibliography
 
 * Della Corte, *Case*, p. 339, no. 723a.
-* Jashemski, *Gardens*, vol. 1, fig. 160 on p. 102 (for the portrait). [(worldcat)](http://www.worldcat.org/oclc/884024123)
-* Jashemski, *Gardens*, vol.II, pp. 44; <span style="color:orange">395</span>. [(worldcat)](http://www.worldcat.org/oclc/921816405)
-* Maiuri, *Pompeii*, p. 82. [(worldcat)](http://www.worldcat.org/oclc/470375462)
+* Jashemski, *Gardens*, vol. 1, fig. 160 on p. 102 (for the portrait). [(worldcat)](https://search.worldcat.org/title/884024123)
+* Jashemski, *Gardens*, vol.II, pp. 44; <span style="color:orange">395</span>. [(worldcat)](https://search.worldcat.org/title/921816405)
+* Maiuri, *Pompeii*, p. 82. [(worldcat)](https://search.worldcat.org/title/470375462)
 * Schefold, *WandP*, p. 38.
 
-<!--#### Periodo ID-->
+## Places
 
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
-#### Pleiades ID
-
-[433032](https://pleiades.stoa.org/places/433032)
-
-#### TGN ID
-
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
-
-### Contributor
-
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-### Publication date
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
+- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

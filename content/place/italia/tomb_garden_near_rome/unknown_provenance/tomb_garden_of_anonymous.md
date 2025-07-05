@@ -3,69 +3,46 @@ gre_id: "1fd5602273"
 aliases: [/id/1fd5602273]
 type: garden
 title: "Tomb Garden of Anonymous"
-date: 2020-11-29T10:54:29-07:00
 latlon: [ 0, 0 ]
 author:
-editor: Lingyi Xu
+contributor: Lingyi Xu
+date: 2020-11-29
+modified: 2025-06-29
 draft: true
-
-categories:
-- "italia"
 ---
-
-## Province
-[italia]({{<relref "..">}})
 
 ## Location
 
-<!--### Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
 ## Sublocation
 
-### Sublocation Description
+## Sublocation Description
 
 ## Garden
 
 Tomb Garden of Attia Quintilla
 
-### Keywords
+## Keywords
 
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
+- {{< keyword "tombs" >}}
+- {{< keyword "epitaphs" >}}
 
-### Garden Description
+## Garden Description
+
 A fragmentary opisthographic slab of unknown urban provenance, now in the Lapidario Profano ex Lateranense of the Vatican Museums, records an anonymous epitaph dedicating to the dedicator and his household a tomb garden (cepotafi[um]) and tomb monument with a building.
 
-### Maps
+<!-- ## Maps -->
 
-<!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
--->
+<!-- ## Plans -->
 
-### Plans
+<!-- ## Images -->
 
-### Images
+## Dates
 
-### Dates
 Unspecified
 
-### Bibliography
-- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 177 n. 10. [worldcat](https://www.worldcat.org/title/horti-sepulchrales-e-cepotaphia-nelle-iscrizioni-urbane/oclc/886794800&referer=brief_results)
+## Bibliography
 
-<!--#### Periodo ID-->
+- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, BCom 92 (1987-88) [1989] 177 n. 10. [worldcat](https://search.worldcat.org/title/886794800)
 
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+## Places
 
-#### Pleiades ID
-
-#### TGN ID
-
-### Contributor
-
-### Publication date
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

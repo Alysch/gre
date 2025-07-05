@@ -3,72 +3,64 @@ gre_id: "d75a7ef81f"
 aliases: [/id/d75a7ef81f]
 type: garden
 title: "Insula or. I.2-3(D)"
-date: 2020-09-30T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 564
+date: 2021-04-21
+modified: 2025-06-29
 draft: false
-
-categories:
-  - "Italia"
-tags:
- - "rustic"
- - "shrines (structures)"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+- [Italia]({{<relref "../../..">}})
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 
- [Herculaneum]({{<relref "../..">}}) \
- [Herculaneum (Pleiades)](https://pleiades.stoa.org/places/432873)
+- [Herculaneum]({{<relref "../..">}}) \
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
+## Location Description
 
-### Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 [Insula Orientalis I]({{<relref "..">}})
 ## House
+
 [House 2-3]({{<relref ".">}})
 ## Garden
+
 D
 
-### Keywords
-- [rustic](http://vocab.getty.edu/page/aat/300310541)
-- [shrines](http://vocab.getty.edu/page/aat/300007558)
+## Keywords
 
+- {{< keyword "rustic" >}}
+- {{< keyword "shrines" >}}
 
-### Garden Description
+## Garden Description
+
 D. A rustic shrine was attached to the north side of the house and a long narrow garden (d) was located here. There was evidence of earlier construction at this location.
 
-### Plans
-{{< image src="herculaneum_or.i_d.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
+## Plans
 
-{{< image src="h_orientalis_1_1-3-d.jpg" alt="Herculaneum - insula orientalis I. 1-3-d" title="Herculaneum - insula orientalis I. 1-3-d" >}}
+{{< image file="herculaneum_or.i_d.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="" >}}
 
+{{< image file="h_orientalis_1_1-3-d.jpg" caption="Herculaneum - insula orientalis I. 1-3-d" credit="" alt="" >}}
 
-#### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
+## Places
 
-#### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
+- {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
-### Dates
+## Dates
+
 Unspecified
 
-### Bibliography
-* Maiuri, *Herculaneum*,  p. 67 [(worldcat)](http://www.worldcat.org/oclc/1107784297)
-* Maiuri, *Ercolano*, pp. 359, 360 [(worldcat)](http://www.worldcat.org/oclc/490581395)
+## Bibliography
 
-
-### Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-### Publication date
-
-21 Apr 2021
+* Maiuri, *Herculaneum*, p. 67 [(worldcat)](https://search.worldcat.org/title/1107784297)
+* Maiuri, *Ercolano*, pp. 359, 360 [(worldcat)](https://search.worldcat.org/title/490581395)

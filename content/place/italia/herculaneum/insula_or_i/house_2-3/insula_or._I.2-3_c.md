@@ -3,66 +3,62 @@ gre_id: "275f573961"
 aliases: [/id/275f573961]
 type: garden
 title: "Insula or. I.2-3(C)"
-date: 2020-09-30T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 563
+date: 2021-04-21
+modified: 2025-06-29
 draft: false
-categories:
-  - "Italia"
-tags:
- - "peristyles (Roman courtyards)"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+- [Italia]({{<relref "../../..">}})
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 
- [Herculaneum]({{<relref "../..">}}) \
- [Herculaneum (Pleiades)](https://pleiades.stoa.org/places/432873)
+- [Herculaneum]({{<relref "../..">}}) \
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
+## Location Description
 
-### Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 [Insula Orientalis I]({{<relref "..">}})
 ## House
+
 [House 2-3]({{<relref ".">}})
 ## Garden
+
 C
 
-### Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
+## Keywords
 
-### Garden Description
+- {{< keyword "peristyles" >}}
+
+## Garden Description
+
 C. There are five rooms south of the peristyle and on a lower level beyond them is another garden (c).
 
-### Plans
-{{< image src="herculaneum_or.i_c.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
+## Plans
 
-{{< image src="h_orientalis_1_1-3-c.jpg" alt="Herculaneum - insula orientalis I. 1-3-c" title="Herculaneum - insula orientalis I. 1-3-c" >}}
+{{< image file="herculaneum_or.i_c.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="" >}}
 
+{{< image file="h_orientalis_1_1-3-c.jpg" caption="Herculaneum - insula orientalis I. 1-3-c" credit="" alt="" >}}
 
-#### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
+## Places
 
-#### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
+- {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
-### Dates
+## Dates
+
 Unspecified
 
-### Bibliography
-* Maiuri, *Ercolano*, p. 353 [(worldcat)](http://www.worldcat.org/oclc/490581395)
+## Bibliography
 
-### Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-### Publication date
-
-21 Apr 2021
+* Maiuri, *Ercolano*, p. 353 [(worldcat)](https://search.worldcat.org/title/490581395)

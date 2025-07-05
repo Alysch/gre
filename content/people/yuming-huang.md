@@ -1,9 +1,8 @@
 ---
-date: 2025-06-16T16:59:20-04:00
-modified: 2025-06-16T16:59:20-04:00
 type: people
 title: Yuming Huang
-draft: false
+date: 2025-06-18
+draft: true
 ---
 
 <!-- position title, institution -->
@@ -19,8 +18,7 @@ draft: false
 -->
 
 <!--
-## Linked IDs
-{{< id src="" id="" title="" >}}
->
+{{< id vocab="ORCID" id="" >}}
+-->
 
 <!-- Description -->

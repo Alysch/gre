@@ -1,9 +1,8 @@
 ---
-date: 2025-06-14T13:30:57-04:00
-modified: 2025-06-14T13:30:57-04:00
 type: people
 title: Holly Spoth-Torres
-draft: false
+date: 2025-06-18
+draft: true
 ---
 
 <!-- position title, institution -->
@@ -16,11 +15,13 @@ draft: false
 <!--
 ## Website
 
+Is this a good website for Spoth-Torres?
+https://huddleak.com/holly-spoth-torres-pla/
 -->
 
+
 <!--
-## Linked IDs
-{{< id src="" id="" title="" >}}
->
+{{< id vocab="ORCID" id="" >}}
+-->
 
 <!-- Description -->

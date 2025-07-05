@@ -3,17 +3,18 @@ gre_id: "f563fc2fb8"
 aliases: [/id/f563fc2fb8]
 type: garden
 title: "Terraced garden of the Libraries (Fig. 1, n. 8)"
-date: 2020-12-14T21:15:00-08:00
 latlon: [ 41.942614, 12.776359 ]
 author: Eugenia Salza Prina Ricotti
-editor: Joshua Rosenheim
+contributor: Joshua Rosenheim
+date: 2021-04-21
+modified: 2025-06-29
 draft: true
 ---
 
 ## Province
 
-[Italia]({{<relref "../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+- [Italia]({{<relref "../..">}})
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Region
 
@@ -22,9 +23,9 @@ Region IV
 
 ## Location
 
-[Hadrian's Villa (Pleiades)](https://pleiades.stoa.org/places/423127)
+- {{< id vocab="Pleiades" id="423127" name="Hadrian's Villa" >}}
 
-### Location Description
+## Location Description
 
 DESCRIPTION
 
@@ -36,68 +37,58 @@ The realization of this magnificent residence must have been a cherished dream o
 
 Terraced garden of the Libraries (Fig. 1, n. 8)
 
-### Keywords
+## Keywords
 
-- [euripus](#)
-- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
+- {{< keyword "euripus" >}}
+- {{< keyword "terrace gardens" >}}
 
-### Garden Description
+## Garden Description
 
 This terrace, leaning to the North on a sustaining wall, is the first one of a series of very interesting overhanging gardens developing on successive sloping down terraces (Fig. 25). Up to now no flowerbeds have been discovered. Today we can only admire the very long *euripus* (Fig. 26), which was the principal feature of this garden (Fig. 25, A). It ran parallel to the buildings of the libraries and occupied all its northern front. At its extremities the *euripus* expanded in two octagonal basins which had flowerbeds at their centers (Fig. 26). Two other smaller basins decorated the garden (Fig. 25, B-C).  We can see one in the photo (Fig. 27).
 
-### Plans
+## Plans
 
-{{< image src="1_gardens_general_plan.jpg" alt="Plan of the gardens at Hadrian's Villa" title="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." >}}
+{{< image file="1_gardens_general_plan.jpg" caption="Fig. 1: Plan of Villa Adriana, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the gardens at Hadrian's Villa" >}}
 
-{{< image src="25_libraries.jpg" alt="Plan of the Libraries at Hadrian's Villa" title="Fig. 25: Plan of the Libraries, Eugenia Salza Prina Ricotti." >}}
+{{< image file="25_libraries.jpg" caption="Fig. 25: Plan of the Libraries, Eugenia Salza Prina Ricotti." credit="" alt="Plan of the Libraries at Hadrian's Villa" >}}
 
-### Images
+## Images
 
-{{< image src="26_libraries_euripus.jpg" alt="Photograph of the Euripus in the Terraced garden of the Libraries at Hadrian's Villa" title="Fig. 26: Euripus, Eugenia Salza Prina Ricotti." >}}
+{{< image file="26_libraries_euripus.jpg" caption="Fig. 26: Euripus, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of the Euripus in the Terraced garden of the Libraries at Hadrian's Villa" >}}
 
-{{< image src="27_fontana.jpg" alt="Photograph of a Fountain in the Terraced garden of the Libraries at Hadrian's Villa" title="Fig. 27: Fountain, Eugenia Salza Prina Ricotti." >}}
+{{< image file="27_fontana.jpg" caption="Fig. 27: Fountain, Eugenia Salza Prina Ricotti." credit="" alt="Photograph of a Fountain in the Terraced garden of the Libraries at Hadrian's Villa" >}}
 
-### Dates
+## Dates
 
 Built between 118 and 138 CE
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 <!-- Bibliography for Location Description -->
-* H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](http://www.worldcat.org/oclc/12847711)
-* H. Kähler, *Hadrian und sein Villa bei Tivoli*, Berlin 1950. [(worldcat)](http://www.worldcat.org/oclc/1034105)
-* S. Aurigemma, *Villa Adriana*, Roma 1961. [(worldcat)](http://www.worldcat.org/oclc/646837399)
-* F. Rakob, "Der Bauplan einer kaiserlichen Villa," in W. Hartmann (ed.), *Festschrift K. Langheit*, Bönn 1973, pp. 113-125. [(worldcat)](http://www.worldcat.org/oclc/300184474)
-* F. E. Brown, "Hadrianic Architecture," in L. F. Sadler (ed.), *Essays in Memory of Karl Lehmann*, New York 1964, pp. 55-58. [(worldcat)](http://www.worldcat.org/oclc/911991480)
-* G. Lugli, "Studi topografici intorno alle antiche ville suburbane. VI. Villa Adriana. A. - Una villa di età repubblicana inclusa nelle contruzioni imperiali," *Bullettino della Commissione archeologica Comunale di Roma* 55, 1927, pp. 139-204. [(worldcat)](http://www.worldcat.org/oclc/1716088)
-* C. Caprino, "Plastico marmoreo di uno stadio nella Villa Adriana a Tivoli," *Rivista dell'Instuto nazionale di archeologia e storia dell'arte* 3 s., 19-20 (1996-97), pp. 113-151. [(worldcat)](http://www.worldcat.org/oclc/1754035)
-* E. Salza Prina Ricotti, "Nascita e sviluppo di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 65, 1992-93, p. 73. [(worldcat)](http://www.worldcat.org/oclc/797448140)
-* E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 144-147. [(worldcat)](http://www.worldcat.org/oclc/46784026)
-* J. E. Foss, J. T. Ammons, M. E. Simmons, S. Y. Lee, R. C. Minter, "Genesis of soil developed in volcanic tufa at Hadrian's Villa near Rome," *Agronomy Abstracts ASA*, Madison WL 1990, p. 291. [(worldcat)](http://www.worldcat.org/oclc/1644021)
-* J. E. Foss, "Appendice. Soils of Hadrian's Villa," in E. Salza Prina Ricotti, “Il sistema di irrigazione della Piazza d’Oro,” *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 62 (1989-90), pp. 151-157. [(worldcat)](http://www.worldcat.org/oclc/1074521932)
-* J. E. Foss, "Appendice. Soils of Hadrian's Villa," in W. F. Jashemski, E. Salza Prina Ricotti "Preliminary Excavations in the Gardens of Hadrian's Villa: the Canopus Area and the Piazza d'Oro" *American Journal of Archaeology*, Vol. 96, No.4 (Oct. 1992), pp. 595-597. [(worldcat)](http://www.worldcat.org/oclc/1032864253)<!-- worldcat link is for the journal, not the specific issue thereof --> [(jstor)](http://www.jstor.org/stable/505186)
-* M. E. Timpson, J.E. Foss, R. J. Lewis, C. A. Stiles, "Soil interpretation of some Roman archaeological sites in Italy and Tunisia," *15th Int. Congr. of Soil Science*, Vol. 6b, 1994, pp. 172-173. [(worldcat)](http://www.worldcat.org/oclc/32679652)
-* J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](http://www.worldcat.org/oclc/1040851034)
+* H. Winnefeld, *Die Villa des Hadrian bei Tivoli*, Berlin 1895, p. 154. [(worldcat)](https://search.worldcat.org/title/12847711)
+* H. Kähler, *Hadrian und sein Villa bei Tivoli*, Berlin 1950. [(worldcat)](https://search.worldcat.org/title/1034105)
+* S. Aurigemma, *Villa Adriana*, Roma 1961. [(worldcat)](https://search.worldcat.org/title/646837399)
+* F. Rakob, "Der Bauplan einer kaiserlichen Villa," in W. Hartmann (ed.), *Festschrift K. Langheit*, Bönn 1973, pp. 113-125. [(worldcat)](https://search.worldcat.org/title/300184474)
+* F. E. Brown, "Hadrianic Architecture," in L. F. Sadler (ed.), *Essays in Memory of Karl Lehmann*, New York 1964, pp. 55-58. [(worldcat)](https://search.worldcat.org/title/911991480)
+* G. Lugli, "Studi topografici intorno alle antiche ville suburbane. VI. Villa Adriana. A. - Una villa di età repubblicana inclusa nelle contruzioni imperiali," *Bullettino della Commissione archeologica Comunale di Roma* 55, 1927, pp. 139-204. [(worldcat)](https://search.worldcat.org/title/1716088)
+* C. Caprino, "Plastico marmoreo di uno stadio nella Villa Adriana a Tivoli," *Rivista dell'Instuto nazionale di archeologia e storia dell'arte* 3 s., 19-20 (1996-97), pp. 113-151. [(worldcat)](https://search.worldcat.org/title/1754035)
+* E. Salza Prina Ricotti, "Nascita e sviluppo di Villa Adriana," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 65, 1992-93, p. 73. [(worldcat)](https://search.worldcat.org/title/797448140)
+* E. Salza Prina Ricotti, *Villa Adriana: il sogno di un imperatore*, Roma 2000, pp. 144-147. [(worldcat)](https://search.worldcat.org/title/46784026)
+* J. E. Foss, J. T. Ammons, M. E. Simmons, S. Y. Lee, R. C. Minter, "Genesis of soil developed in volcanic tufa at Hadrian's Villa near Rome," *Agronomy Abstracts ASA*, Madison WL 1990, p. 291. [(worldcat)](https://search.worldcat.org/title/1644021)
+* J. E. Foss, "Appendice. Soils of Hadrian's Villa," in E. Salza Prina Ricotti, "Il sistema di irrigazione della Piazza d'Oro," *Atti della Pontificia Accademia romana di archeologia: Rendiconti* 62 (1989-90), pp. 151-157. [(worldcat)](https://search.worldcat.org/title/1074521932)
+* J. E. Foss, "Appendice. Soils of Hadrian's Villa," in W. F. Jashemski, E. Salza Prina Ricotti "Preliminary Excavations in the Gardens of Hadrian's Villa: the Canopus Area and the Piazza d'Oro" *American Journal of Archaeology*, Vol. 96, No.4 (Oct. 1992), pp. 595-597. [(worldcat)](https://search.worldcat.org/title/1032864253)<!-- worldcat link is for the journal, not the specific issue thereof --> [(jstor)](http://www.jstor.org/stable/505186)
+* M. E. Timpson, J.E. Foss, R. J. Lewis, C. A. Stiles, "Soil interpretation of some Roman archaeological sites in Italy and Tunisia," *15th Int. Congr. of Soil Science*, Vol. 6b, 1994, pp. 172-173. [(worldcat)](https://search.worldcat.org/title/32679652)
+* J. E. Foss, E. Salza Prina Ricotti, "Lead Pipes Use in Ancient Roman Irrigation System and Content of Pb in the Soil of Archaeological Sites," *Bulletin of the Metals Museum*, Vol. 26 (1996-II), Aoba, Aramaki, Aoba-ku, Sendai, Japan, pp. 33-47. [(worldcat)](https://search.worldcat.org/title/1040851034)
 
-#### Pleiades ID
+## Places
 
-[423127](https://pleiades.stoa.org/places/423127)
+- {{< id vocab="Pleiades" id="423127" name="Villa Hadriani" >}}
 <!-- this is the Pleiades ID for Villa Hadriani, awaiting publication of a place resource for this specific garden within Villa Hadriani -->
 
-#### TGN ID
-
-[7006983](http://vocab.getty.edu/page/tgn/7006983)
+- {{< id vocab="TGN" id="7006983" name="Hadrian's Villa (ruins)" >}}
 <!-- this is the TGN ID for Hadrian's Villa, not for this particular garden -->
 
-### Contributor
-
-[Eugenia Salza Prina Ricotti](http://worldcat.org/identities/lccn-n84111978/)
-
-### Publication date
-
-
-21 Apr 2021

@@ -3,48 +3,42 @@ gre_id: "c48d798d77"
 aliases: [/id/c48d798d77]
 type: garden
 title: "House on the Place des Halles (La maison des Halles)"
-date: 2020-12-08T10:39:31-07:00
 latlon: [ 48.007160, 0.198493 ]
-author: AUTHOR_ID
-editor: Yvette Pollack
+author: Maureen Carroll
+contributor: Yvette Pollack
+date: 2021-04-21
+modified: 2025-06-29
 draft: true
-
-categories:
- - "Gallia"
 ---
 
-## Province
-[Gallia]({{<relref "..">}})
-
 ## Location
+
 -- missing in Pleiades --
-[VINDINUM a.k.a. Subdinnum (Le Mans, France)]({{<relref ".">}}) \
-[VINDINUM a.k.a. Subdinnum (Pleiades)](https://pleiades.stoa.org/places/109236)
+- [VINDINUM a.k.a. Subdinnum (Le Mans, France)]({{<relref ".">}})
+- {{< id vocab="Pleiades" id="109236" name="VINDINUM a.k.a. Subdinnum" >}}
 
-<!--### Location Description-->
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!-- ## Sublocation-->
+<!-- ## Sublocation -->
 
 <!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+[AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-### Sublocation Description
+## Sublocation Description
 
 On the left bank of the Sarthe, where it is joined by the Isaac creek, the Roman town was the successor to a Celtic oppidum. A wall of the late empire enclosed nine hectares.
 
 ## Garden
+
 House on the Place des Halles (La maison des Halles)
 
-### Keywords
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
+## Keywords
 
+- {{< keyword "domus" >}}
+- {{< keyword "courtyards" >}}
 
-### Garden Description
+## Garden Description
 
 LUG 6.1.1: Le Mans. House on the Place des Halles. From CAG.
 
@@ -52,49 +46,23 @@ This *domus* was on the Place des Halles, the former site of the covered market 
 
 <!-- Description was in draft, not final. -->
 
-### Maps
+<!-- ## Maps -->
 
-<!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
--->
+## Plans
 
-### Plans
-{{< image src="place_des_halles.jpg" alt="A section drawing depicting the two floors of what a restored domus would look like." title="Restored section of the entire domus by P. André" >}}
-<!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
--->
+{{< image file="place_des_halles.jpg" caption="Restored section of the entire domus by P. André" credit="" alt="A section drawing depicting the two floors of what a restored domus would look like." >}}
+<!-- ## Images -->
 
-### Images
+## Dates
 
-<!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
--->
-
-### Dates
 Unspecified
 
-### Bibliography
-- Service  Régional  de  l’Archéologie  des  Pays  de  la  Loire,  *La  Sarthe,*  72,  CAG p. 318-319,  plan  p. 318. [(worldcat)](http://www.worldcat.org/oclc/316192643)
+## Bibliography
 
+- Service  Régional  de  l'Archéologie  des  Pays  de  la  Loire, *La  Sarthe,*  72, CAG p. 318-319, plan  p. 318. [(worldcat)](https://search.worldcat.org/title/316192643)
 
-<!--#### Periodo ID-->
+## Places
 
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+- {{< id vocab="Pleiades" id="109236" name="Ouindinon/Subdinnum" >}}
+- {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
 
-#### Pleiades ID
-
-[109236](https://pleiades.stoa.org/places/109236)
-
-#### TGN ID
-[6003548](http://vocab.getty.edu/page/tgn/6003548)
-
-### Contributor
-[AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
-
-### Publication date
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

@@ -3,76 +3,48 @@ gre_id: "4d6880017e"
 aliases: [/id/4d6880017e]
 type: garden
 title: "Tomb Garden of M. Aurelius Syntomus and Aurelia Marciane"
-date: 2020-11-29T10:54:29-07:00
 latlon: [ 51.667934, 6.448177 ]
 author: Francesca Carboni
-editor: Lingyi Xu
+contributor: Lingyi Xu
+date: 2020-11-29
+modified: 2025-06-29
 draft: true
-
-categories:
-- "italia"
 ---
-
-## Province
-[italia]({{<relref "..">}})
 
 ## Location
 
-[via praenestina]({{<relref ".">}}) \
-[via praenestina (Pleiades)](https://pleiades.stoa.org/places/622606468)
-
-<!--### Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
+- [via praenestina]({{<relref ".">}})
+- {{< id vocab="Pleiades" id="622606468" name="Via Praenestina" >}}
 
 ## Sublocation
 
-### Sublocation Description
+## Sublocation Description
 
 ## Garden
 
 Tomb Garden of M. Aurelius Syntomus and Aurelia Marciane
 
-### Keywords
+## Keywords
 
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- {{< keyword "tombs" >}}
 
-### Garden Description
-A marble slab found in 1745 near a circular tomb monument beside the Via Praenestina at the first mile from the Porta Maggiore records “a building with tomb garden (cepotaphium) and monument (memoria)” built up from the ground by M. Aurelius Syntomus and his wife Aurelia Marciane for themselves, their son and daughter, and their freedmen and descendants, probably some time in the late second or third century.
+## Garden Description
 
-### Maps
+A marble slab found in 1745 near a circular tomb monument beside the Via Praenestina at the first mile from the Porta Maggiore records "a building with tomb garden (cepotaphium) and monument (memoria)" built up from the ground by M. Aurelius Syntomus and his wife Aurelia Marciane for themselves, their son and daughter, and their freedmen and descendants, probably some time in the late second or third century.
 
-<!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
--->
+<!-- ## Maps -->
 
-### Plans
+<!-- ## Plans -->
 
-### Images
+<!-- ## Images -->
 
-### Dates
+## Dates
+
 Unspecified
 
-### Bibliography
-- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian, BCom 92 (1987-88) [1989] 176 n. 7. [worldcat](https://www.worldcat.org/title/horti-sepulchrales-e-cepotaphia-nelle-iscrizioni-urbane/oclc/886794800&referer=brief_results)
+## Bibliography
 
-<!--#### Periodo ID-->
+- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian, BCom 92 (1987-88) [1989] 176 n. 7. [worldcat](https://search.worldcat.org/title/886794800)
 
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+## Places
 
-#### Pleiades ID
-
-[108896](https://pleiades.stoa.org/places/108896)
-
-#### TGN ID
-[7208125](http://vocab.getty.edu/page/tgn/7208125)
-
-### Contributor
-
-[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))  
-
-### Publication date
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

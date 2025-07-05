@@ -2,54 +2,44 @@
 gre_id: "29e3ce80ed"
 aliases: [/id/29e3ce80ed]
 type: garden
-title: "House of the Arsenal (Maison de l’Arsenal)"
-date: 2020-12-08T10:39:31-07:00
+title: "House of the Arsenal (Maison de l'Arsenal)"
 latlon: [ 49.118135, 6.174155 ]
-author: AUTHOR_ID
-editor: Yvette Pollack
+author: Maureen Carroll
+contributor: Yvette Pollack
+date: 2021-04-21
+modified: 2025-06-29
 draft: true
-
-categories:
- - "Gallia"
- - "Belgica"
 ---
-
-## Province
-[Gallia]({{<relref "..">}})
 
 ## Location
 
-[DIVODURUM MEDIOMATRICORUM (Liéhon, France)]({{<relref ".">}}) \
-[DIVODURUM MEDIOMATRICORUM (Pleiades)](https://pleiades.stoa.org/places/108927)
+- [DIVODURUM MEDIOMATRICORUM (Liéhon, France)]({{<relref ".">}})
+- {{< id vocab="Pleiades" id="108927" name="Divodurum/Mettis" >}}
 
-<!--### Location Description-->
 
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
+<!-- ## Sublocation -->
 
 <!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
+[AREA WITHIN LOCATION, LIKE "PALATINE HILL"](GEOREFERENCE LINK)
 A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
 -->
 
-<!-- ### Sublocation Description -->
-
-
+<!-- ## Sublocation Description -->
 
 ## Garden
+
 Villa de Larry
 
-### Keywords
+## Keywords
 
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [hedge](http://vocab.getty.edu/page/aat/300266413)
-- [pergolas](http://vocab.getty.edu/page/aat/300006783)
-- [cisterns (plumbing components)](http://vocab.getty.edu/page/aat/300052558)
-- [fountain](http://vocab.getty.edu/page/aat/300006179)
+- {{< keyword "courtyards" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "hedges" >}}
+- {{< keyword "pergolas" >}}
+- {{< keyword "cisterns" >}}
+- {{< keyword "fountains" >}}
 
-### Garden Description
+## Garden Description
 
 <!-- Taken from draft file -->
 The site is on the Lorraine plateau, which has been densely occupied and cultivated since protohistoric times. The villa was on the divide between the headwaters of the Seille on the west and the Neid on the east and only 2.3 kilometers from the Roman road connecting Metz, Sarrebourg, and Strasbourg. The combination of the *pars urbana* and the *pars rustica* occupied more than 7 hectares, and the *pars rustica* alone had at least twelve buildings. The site of *pars urbana* now lies under the airport runway, so all vestiges were destroyed in the construction.  The *pars rustica* lies outside the airport property in cultivated fields. It remains buried but intact and has been (2006- 2007) the subject of further investigation by ground-penetrating radar and other techniques not requiring excavation.
@@ -64,50 +54,34 @@ Two walkways, now much despoiled of their stones, formed a T (indicated by dotte
 
 In the eastern part of the *pars urbana*, an intermediary enclosed space (shaded green and marked with a V and a 3 in Fig. 1) between the northeast pavilion and the gallery of the *balneum*, was occupied by a garden with a surface of 196 square meters, where two trees were planted in the center. A second interior court (shaded green and marked with a V and a 4 in Fig.1), occupied 504 square meters in the southeast corner of the villa between the southern apartments and the *balneum*. A deep subterranean structure about five or six meters in diameter may have been a *cistern* or pool. These two interior gardens related to the baths covered 700 square meters. Finally, the bottom of a horticultural pot was discovered under the porch of the south facade of the villa.
 
-Traces of wooden pipes with iron hoops were discovered running underground across the large central *courtyard* and to the south of the *pars urbana* to bring water from capped springs to the central pool, to the baths, and almost certainly to *fountains* that were not found.  A corresponding network of drains and sewers was also found.  Just east of the entry porch was a canal for draining off the rainwater from the roof of the entry porch.  
+Traces of wooden pipes with iron hoops were discovered running underground across the large central *courtyard* and to the south of the *pars urbana* to bring water from capped springs to the central pool, to the baths, and almost certainly to *fountains* that were not found.  A corresponding network of drains and sewers was also found.  Just east of the entry porch was a canal for draining off the rainwater from the roof of the entry porch.
 
 In the fourth century, the villa was in large part ruined; the pools were filled in, the *courtyards* in the center and to the north occupied by wooden structures erected from the end of the fourth century to the sixth century.
 
 The Villa de Larry site is an example of the villa of a country estate where the gardens integrated the architecture of the buildings. The art of gardening bore witness to the will of the builders and proprietors to master nature and the plant world, imposing on them harmonious and regular forms with plans inspired by the imperial prototypes of Rome.
 
-
-### Maps
-
-None Available
-
-### Plans
+## Maps
 
 None Available
 
-### Images
+## Plans
 
 None Available
 
-### Dates
+## Images
+
+None Available
+
+## Dates
+
 Unspecified
 
-### Bibliography
-- J.-D. Laffite, A. Bressoud, M. Mondy, A. Lefèbvre, M. Feller, I. Dechanez-Clerc, J.-J. Bigot, É. Rouger, *LIÉHON (Moselle) « Larry » - Aéroport Metz-Nancy Lorraine*, rapport de fouille préventive 2003, INRAP GEN/ SRA DRAC Lorraine, Metz, 2005, 9 vol., 1378 p., 207 figures, 61 plates. [(worldcat)](http://www.worldcat.org/oclc/20955708)
+## Bibliography
 
+- J.-D. Laffite, A. Bressoud, M. Mondy, A. Lefèbvre, M. Feller, I. Dechanez-Clerc, J.-J. Bigot, É. Rouger, *LIÉHON (Moselle) « Larry » - Aéroport Metz-Nancy Lorraine*, rapport de fouille préventive 2003, INRAP GEN/ SRA DRAC Lorraine, Metz, 2005, 9 vol., 1378 p., 207 figures, 61 plates. [(worldcat)](https://search.worldcat.org/title/20955708)
 
-<!--#### Periodo ID-->
+## Places
 
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+- {{< id vocab="Pleiades" id="108927" name="Divodurum/Mettis" >}}
+- {{< id vocab="TGN" id="6000727" name="Gallia Belgica (province)" >}}
 
-#### Pleiades ID
-
-[108927](https://pleiades.stoa.org/places/108927)
-
-#### TGN ID
-[6000727](http://vocab.getty.edu/page/tgn/6000727)
-
-### Contributor
-[AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
-
-### Publication date
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

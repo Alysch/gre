@@ -3,107 +3,53 @@ gre_id: "664bf5c779"
 aliases: [/id/664bf5c779]
 type: garden
 title: "Tomb garden of A. Coelius C. f."
-date: 2020-12-10T12:00:02-05:00
 latlon: [ 45.4071, 11.8698 ]
 author: John Bodel
-editor: Zhenrui Mei
+contributor: Zhenrui Mei
+date: 2021-04-21
+modified: 2025-06-29
 draft: true
-
-categories:
- - "Italia"
-tags:
- - "epitaphs"
- - "mausoleums"
- - "stelae"
- - "tombs"
 ---
-
-## Province
-
-[Italia]({{<relref "../../../..">}})
-
-<!--### Province Description-->
-
-<!-- DESCRIPTION -->
-
 
 ## Location
 
-[Patavium]({{<relref "../../..">}}) \
-[Patavium (Pleiades)](https://pleiades.stoa.org/places/393473)
-
-<!--### Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
+- [Patavium]({{<relref "../../..">}})
+- {{< id vocab="Pleiades" id="393473" name="Patavium" >}}
 
 ## Sublocation
 
 [Region X]({{<relref "../..">}})
 
-<!--### Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
-
 ## Garden
 
 Tomb garden of A. Coelius C. f.
 
-### Keywords
+## Keywords
 
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
-- [epitaphs](http://vocab.getty.edu/page/aat/300028729)
-- [stelae](http://vocab.getty.edu/page/aat/300007023)
-- [mausoleums](http://vocab.getty.edu/page/aat/300005891)
+- {{< keyword "tombs" >}}
+- {{< keyword "epitaphs" >}}
+- {{< keyword "stelae" >}}
+- {{< keyword "mausoleums" >}}
 
-### Garden Description
+## Garden Description
 
 A broken marble slab immured in the cathedral at Padua since the seventeenth century records the epitaph of A. Coelius C. f., who some time in the first or second century dedicated to the divine spirits (Dis Manibus) and to himself in perpetuity a garden that had once, it seems, belonged to an Arius (hortum… Arianum). Whether it had always been a tomb garden or was only then being converted to a funerary use is uncertain.
 
-<!--### Maps-->
+<!-- ## Maps -->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
-
-NEW WAY ↓↓↓↓
-{{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
--->
-
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 unspecified
 
-### Bibliography
+## Bibliography
 
 * CIL 5.2935
 
-<!--#### Periodo ID-->
+## Places
 
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
-#### Pleiades ID
-
-[393473](https://pleiades.stoa.org/places/393473)
-
-#### TGN ID
-
-[77003085](http://vocab.getty.edu/page/tgn/7003085)
-
-### Contributor
-
-Brady Kiesling (https://pleiades.stoa.org/author/bkiesling)
-
-### Publication date
-
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->
+- {{< id vocab="Pleiades" id="393473" name="Patavium" >}}
+- {{< id vocab="TGN" id="7003085" name="Padua (inhabited place)" >}}

@@ -3,70 +3,67 @@ gre_id: "fd7365d9ae"
 aliases: [/id/fd7365d9ae]
 type: garden
 title: "VIII.4.33."
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 435
+date: 2021-04-21
+modified: 2025-06-29
 draft: false
-
-categories:
-  - "Italia"
-tags:
-  - "porticoes"
-
 ---
 
 ## Province
-[Italia]({{<relref "../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+
+- [Italia]({{<relref "../../..">}})
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
-[Pompeii]({{<relref "../..">}}) \
-[Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+- [Pompeii]({{<relref "../..">}})
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
+
+## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region VIII]({{<relref "..">}})
 
 ## Insula
+
 [Insula IV]({{<relref ".">}})
 
-### Keywords
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
+## Keywords
 
-### Garden Description
+- {{< keyword "porticoes" >}}
+
+## Garden Description
+
 This garden (a) was tucked around the right end of a long fauces which led from the street. The garden was enclosed by a low wall and a gutter on the north and west and a narrow portico with one column on the north. A cistern opening was built into the wall on the west. Two marble heads 0.16 m. high were found; one of yellow marble and bearded, with horns and an ivy crown, and the second of white marble with an ivy crown but beardless. They were of the type that is mounted on posts as garden ornaments and were uncovered in the room at the rear of the portico.
 
-### Plans
-{{< image src="fig.20.region_viii._insula_iv.png" alt="Plan of Region VIII Insula IV" title="Plan of Region VIII Insula IV" >}}
+## Plans
 
-### Images
-{{< image src="fig.15.viii.iv.33_9.34.59.jpg" alt="Fig. 15, 9.34.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig. 15, 9.34.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image file="fig.20.region_viii._insula_iv.png" caption="Plan of Region VIII Insula IV" credit="" alt="" >}}
 
-#### Pleiades ID
-[432873](https://pleiades.stoa.org/places/538911200)
+## Images
 
-#### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/2053030)
+{{< image file="fig.15.viii.iv.33_9.34.59.jpg" caption="Fig. 15, 9.34.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
-###  Excavation Dates
+## Places
+
+- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
+- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
+
+##  Excavation Dates
+
 Unspecified
 
-### Bibliography
-* Dohl, *Plastik aus Pompeji*, p. 45 [(worldcat)](http://www.worldcat.org/oclc/52662796)
-* Fiorelli, *Gli scavi di Pompei dal 1861 al 1872*, p. 8 [(worldcat)](http://www.worldcat.org/oclc/65043382)
-* Fiorelli, *Descrizione di Pompei*, p. 342 [(worldcat)](http://www.worldcat.org/oclc/252039996)
-* Fiorelli, *Giornale degli scavi di Pompei* (1861), p. 382 [(worldcat)](http://www.worldcat.org/oclc/962518899)
-* Jashemski, *Gardens*, vol. II, p. 214 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 67 [(worldcat)](http://www.worldcat.org/oclc/906755593)
+## Bibliography
 
-
-### Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-### Publication date
-
-21 Apr 2021
+* Dohl, *Plastik aus Pompeji*, p. 45 [(worldcat)](https://search.worldcat.org/title/52662796)
+* Fiorelli, *Gli scavi di Pompei dal 1861 al 1872*, p. 8 [(worldcat)](https://search.worldcat.org/title/65043382)
+* Fiorelli, *Descrizione di Pompei*, p. 342 [(worldcat)](https://search.worldcat.org/title/252039996)
+* Fiorelli, *Giornale degli scavi di Pompei* (1861), p. 382 [(worldcat)](https://search.worldcat.org/title/962518899)
+* Jashemski, *Gardens*, vol. II, p. 214 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 67 [(worldcat)](https://search.worldcat.org/title/906755593)

@@ -1,9 +1,9 @@
 ---
+type: people
+title: {{ title (replace .Name "-" " ") }}
 date: {{ time.Now.Format "2006-01-02" }}
 modified: {{ time.Now.Format "2006-01-02" }}
-type: people
-title: NAME
-draft: false
+draft: true
 ---
 
 <!-- position title, institution -->
@@ -19,8 +19,7 @@ draft: false
 -->
 
 <!--
-## Linked IDs
-{{< id src="" id="" title="" >}}
->
+{{< id vocab="ORCID" id="" >}}
+-->
 
 <!-- Description -->

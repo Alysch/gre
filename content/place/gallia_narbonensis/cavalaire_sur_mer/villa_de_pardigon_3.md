@@ -3,62 +3,44 @@ gre_id: "b6cf9711e6"
 aliases: [/id/b6cf9711e6]
 type: garden
 title: "Villa de Pardigon 3"
-date: 2020-11-15T00:08:52-00:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
-editor: Yichen Liu
+author: Eric Morvillez, Emilie Chassillan
+contributor: Yichen Liu
+date: 2021-04-21
+modified: 2025-06-29
 draft: true
-
-categories:
- - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
-[Gallia Narbonensis]({{<relref "..">}}) \
-[Gallia Narbonensis (Pleiades)](https://pleiades.stoa.org/places/981537)
+- [Gallia Narbonensis]({{<relref "..">}})
+- {{< id vocab="Pleiades" id="981537" name="Gallia Narbonensis" >}}
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
 ## Location
 
-[cavalaire_sur_mer]({{<relref "..">}}) \
-[cavalaire_sur_mer (Pleiades)](https://pleiades.stoa.org/places/157901)
-
-### Location Description
-
-<!--### Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
+- [cavalaire_sur_mer]({{<relref "..">}})
+- {{< id vocab="Pleiades" id="157901" name="cavalaire_sur_mer" >}}
 
 ## Sublocation
 
 [Villa de Pardigon 3](#)
 
-<!--### Sublocation Description-->
-
-<!-- DESCRIPTION -->
-
 ## Villa
 
 Villa de Pardigon 3
 
+## Keywords
 
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "columns" >}}
+- {{< keyword "reception rooms" >}}
 
-### Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300004029)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [columns (architectural elements)](http://vocab.getty.edu/page/aat/300001571)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-
-
-
-
-
-
-### Villa Description
+## Villa Description
 
 This wine-producing villa, constructed under the Flavians, lies in the plain, in immediate proximity to the sea.  Excavated in 1985 and 1986 and covering an area of some 2000 square meters, it went through three stages between the last quarter of the first century and the beginning of the third century.  The site was then re-occupied in the fourth century.
 
@@ -66,48 +48,21 @@ The principal buildings were constructed in the first century; in the second cen
 
 In a final stage, at the beginning of the third century, the garden was transformed into a court and then into a dump, and the south branch of the peristyle was divided by a partition.
 
+## Plans
 
+{{< image file="villa_de_pardigon_3.png" caption="Plan of Villa de Pardigon 3" credit="" alt="" >}}
 
-
-### Plans
-
-
-{{< image src="villa_de_pardigon_3.png" alt="Plan of Villa de Pardigon 3" title="Plan of Villa de Pardigon 3" >}}
-
-
-
-### Dates
+## Dates
 
 A.D. 1-100 principal building constructed
 A.D. 100-200 peristyle added
 A,D. 200-300 garden transformed into a court then a dump
 
+## Bibliography
 
+1.  Brun, Jean-Pierre. *Carte Archéologique De La Gaule: 83, Le Var 1*. Paris, 1999, vol.2, P. 324-330, plan P. 326. [(worldcat)](https://search.worldcat.org/title/1074683092)
 
-### Bibliography
+## Places
 
-1.  Brun, Jean-Pierre. *Carte Archéologique De La Gaule: 83, Le Var 1*. Paris, 1999, vol.2, P. 324-330, plan P. 326. [(worldcat)](http://www.worldcat.org/oclc/1074683092)
-
-
-#### Pleiades ID
-
-[981537](https://pleiades.stoa.org/places/981537)
-
-#### TGN ID
-
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-
-
-### Contributor
-
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
-
-[Emilie Chassillan](link)
-### Publication date
-
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->
+- {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}

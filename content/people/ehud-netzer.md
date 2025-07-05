@@ -1,26 +1,24 @@
 ---
-date: 2025-06-14T13:23:18-04:00
-modified: 2025-06-14T13:23:18-04:00
 type: people
 title: Ehud Netzer
-draft: false
+date: 2025-07-01
+draft: true
 ---
 
 <!-- position title, institution -->
+(1934-2010)
 
 <!--
 ## E-mail
 
 -->
 
-<!--
 ## Website
 
--->
+https://herodium.org/mishlahat-hahaphirot/prof-ehud-nezer/
 
 <!--
-## Linked IDs
-{{< id src="" id="" title="" >}}
->
+{{< id vocab="ORCID" id="" >}}
+-->
 
 <!-- Description -->

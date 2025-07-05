@@ -3,64 +3,47 @@ gre_id: "4f27e20214"
 aliases: [/id/4f27e20214]
 type: garden
 title: "La Plaine, House A under the High School"
-date: 2020-10-12T21:26:02-24:00
 latlon: [ 42.439512, 3.176623 ]
-author: AUTHOR_ID
-editor: Yichen Liu
+author: Eric Morvillez, Emilie Chassillan
+contributor: Yichen Liu
+date: 2021-04-21
+modified: 2025-06-29
 draft: true
-
-categories:
- - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
-[Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis (Pleiades)](https://pleiades.stoa.org/places/981537)
+- [Gallia_narbonensis]({{<relref "..">}})
+- {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
 
-### Province Description
+## Province Description
 
 Ancient Roman colony (founded 118 BCE) and senatorial province located in modern southern France, along the Mediterranean. This province had stronger cultural and political ties to Italy than the rest of Gaul.
 
 ## Location
 
 [saint-roman-en-gal]({{<relref ".">}}) \
-[saint-roman-en-gal (Pleiades)]()
-
-### Location Description
-
-<!--### Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
+[saint-roman-en-gal (Pleiades)](#)
 
 ## Sublocation
 
 [La Plaine, House A under the High School](#)
 
-### Sublocation Description
-
-
-
-<!-- DESCRIPTION -->
+<!-- ## Sublocation Description -->
 
 ## House
 
-
 La Plaine, House A under the High School
 
+## Keywords
 
-### Keywords
+- {{< keyword "domus" >}}
+- {{< keyword "peristyles" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "courtyards" >}}
+- {{< keyword "reception rooms" >}}
 
-- [domus](http://vocab.getty.edu/page/aat/300005506)
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [porticoes](http://vocab.getty.edu/page/aat/300004145)
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [reception rooms](http://vocab.getty.edu/page/aat/300077176)
-
-
-
-
-### House Description
+## House Description
 
 This vast *domus* (120 x 60 m) presumably had its principal, monumental entry on the south side, along the Street of the Port. The south peristyle [6] (approximately 13.7 x 9.3 m) was surrounded by four porticoes with floors of terrazzo signinum. Three of them were 2 meters wide; the fourth, on the north, was 3 meters wide and gave access to the principal room [17].
 
@@ -68,63 +51,30 @@ The courtyard of this peristyle was certainly used as a garden. It had a rectang
 
 In the northern wing of the house, a square reception room [53], 5.8 meters on a side, was centered on the axis of the garden. No mosaic was found in it, but the few remaining fragments of the pavement indicate that it was mainly of marble plaques.
 
-<!--### Maps-->
+<!-- ## Maps -->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
+## Plans
 
-NEW WAY ↓↓↓↓
-{{< image src="image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
--->
+{{< image file="la_plaine_house_a_under_the_high_school.png" caption="Plan of La Plaine, House A under the High School" credit="" alt="" >}}
 
-### Plans
+<!-- ## Dates -->
 
-
-{{< image src="la_plaine_house_a_under_the_high_school.png" alt="Plan of La Plaine, House A under the High School" title="Plan of La Plaine, House A under the High School" >}}
-
-
-
-
-### Dates
-
-
-
-### Bibliography
+## Bibliography
 
 1. *Maison 1996*, t. II,, p. 358-361
 
 
-2. Lancha, Janine. *Recueil General Des Mosaïques De La Gaule: Iii*. Paris: CNRS, 1981, P. 302-307.[worldcat](http://www.worldcat.org/oclc/492310522)
+2. Lancha, Janine. *Recueil General Des Mosaïques De La Gaule: Iii*. Paris: CNRS, 1981, P. 302-307.[worldcat](https://search.worldcat.org/title/492310522)
 
 
-3.  M. Leglay, Informations archéologiques, in Gallia, 29, 2, 1971, P. 57-58.[worldcat]()
+3.  M. Leglay, Informations archéologiques, in Gallia, 29, 2, 1971, P. 57-58.[worldcat](#)
 
-4. M. Leglay, “Les jardins à Vienne,” in *Seventh Dumbarton Oaks Colloquium on the History of Landscape Architecture, Ancient Roman Gardens*, Washington, 1981, P. 57-58.[worldcat]()
+4. M. Leglay, "Les jardins à Vienne," in *Seventh Dumbarton Oaks Colloquium on the History of Landscape Architecture, Ancient Roman Gardens*, Washington, 1981, P. 57-58.[worldcat](#)
 
-5. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 275-277, Fig. 195.[worldcat](http://www.worldcat.org/oclc/43416334)
+5. Bouet, Alain, and Isabel Figueiral. *Les Thermes Privés Et Publics En Gaule Narbonnaise*. Rome: École française de Rome, 2003, P. 275-277, Fig. 195.[worldcat](https://search.worldcat.org/title/43416334)
 
+## Places
 
-#### Pleiades ID
-
-[981537](https://pleiades.stoa.org/places/981537)
-
-#### TGN ID
-
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[5004109](http://vocab.getty.edu/page/tgn/5004109)
-
-### Contributor
-
-[Eric Morvillez](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
-
-[Emilie Chassillan](link)
-### Publication date
-
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->
+- {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="5004109" name="Saint-Romain-en-Gal (inhabited place)" >}}

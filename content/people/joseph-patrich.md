@@ -1,26 +1,22 @@
 ---
-date: 2025-06-14T13:31:37-04:00
-modified: 2025-06-14T13:31:37-04:00
 type: people
 title: Joseph Patrich
-draft: false
+date: 2025-06-26
+draft: true
 ---
 
 <!-- position title, institution -->
 
 <!--
 ## E-mail
-
 -->
 
-<!--
 ## Website
 
--->
+http://pluto.mscc.huji.ac.il/~patrichj/my_web_site/
 
 <!--
-## Linked IDs
-{{< id src="" id="" title="" >}}
->
+{{< id vocab="ORCID" id="" >}}
+-->
 
 <!-- Description -->

@@ -3,41 +3,22 @@ gre_id: "6645a13b91"
 aliases: [/id/6645a13b91]
 type: garden
 title: "House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)"
-date: 2020-07-24T18:18:22-04:00
 latlon: [ 40.74941, 14.485429 ]
 author: Wilhelmina Jashemski
-editor: June Dorsch
+contributor: June Dorsch
+date: 2021-04-21
+modified: 2025-06-29
 draft: true
-
-categories:
- - "Italia"
 ---
-
-## Province
-
-[Italia]({{<relref "../../../..">}})
-
-<!--### Province Description-->
-
-<!-- DESCRIPTION -->
-
 
 ## Location
 
-[Pompeii]({{<relref "../../..">}}) \
-[Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
-
-<!--### Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
+- [Pompeii]({{<relref "../../..">}})
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
 
 ## Sublocation
 
 [Region I]({{<relref "../..">}})
-
-<!--### Sublocation Description-->
-
-<!-- DESCRIPTION -->
 
 ## Insula
 
@@ -51,18 +32,18 @@ categories:
 
 House of L. Vousius Faustus and M. Vousius Faustus (I.ii.10)
 
-### Keywords
+## Keywords
 
-- [aedicules](http://vocab.getty.edu/page/aat/300002574)
-- [archaeological garden](#)
-- [biclinia](http://vocab.getty.edu/page/aat/300170371)
-- [drains](http://vocab.getty.edu/page/aat/300052564)
-- [lararia](http://vocab.getty.edu/page/aat/300400600)
-- [mural paintings (visual works)](http://vocab.getty.edu/page/aat/300033644)
-- [piscinae]( http://vocab.getty.edu/page/aat/300375619)
-- [triclinia (rooms)](http://vocab.getty.edu/page/aat/300004359)
+- {{< keyword "aedicules" >}}
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "biclinia" >}}
+- {{< keyword "drains" >}}
+- {{< keyword "lararia" >}}
+- {{< keyword "mural paintings" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "triclinia (rooms)" >}}
 
-### Garden Description
+## Garden Description
 
 The garden at the rear of the house, excavated in 1873, is almost totally destroyed. According to Mau, most of the garden was occupied by a large pool (5.40 X 2.90 m.) which was sloped toward the west from where it drained into the street through a pipe. The pool was surrounded by a low wall about 0.55 m. high leaving only a narrow space between the pool and the walls. In the northwest corner were the two beds of a masonry *biclinium* which sloped toward the wall, as was customary. Rainwater falling on them was carried away by a terra-cotta drain which emptied into the pool. A square niche under the north couch provided a storage space. On the wall above this couch was a rectangular niche *lararium* with a roughly made *aedicula* facade (Fig. 3, 2.19.72). At the east end of this couch was a masonry table. Fiorelli reports a planting bed attached to the rear (east) wall. There was a view from the *triclinium* through the large window in the east wall, across the pool to the garden painting on the rear wall.
 
@@ -70,71 +51,44 @@ Garden Painting
 
 <span style="color:green"> When this garden was excavated in 1873, the excavators reported three panels on the east wall with garden paintings. The center panel had a body of water with swimming fish with assorted animals in the background that included a grazing deer and a springing leopard. The two panels on either side each had a large crater-shaped fountain surrounded by thick growth. Large red flowers and yellow apples could be identified to the left of each fountain and the right, pomegranates (*Punica granatum* L.). Jashemski examined this painting in 1964 to find it had been covered by a growth of ivy which had destroyed most of the painting. A section of a large pomegranate bush was all that was left intact at the time. She describes the leaves, painted in blue-green with darker shading and a few yellow leaves and the fruit, deep yellow with reddish-orange shading, as being rendered in an impressionistic manner. At the right of the entrance to the garden area was a cistern opening. </span>
 
-<!--### Maps-->
+<!-- ## Maps -->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
+## Plans
 
-NEW WAY ↓↓↓↓
-{{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
--->
+{{< image file="fig-1-region-i.jpg" caption="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21" credit="" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." >}}
 
-### Plans
+{{< image file="fig-2-region-i-insula-ii.png" caption="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, \"Topo grafia,\" pl. 9" credit="" alt="" >}}
 
-{{< image src="fig-1-region-i.jpg" alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21." title="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement)." >}}
+## Images
 
-{{< image src="fig-2-region-i-insula-ii.png" alt="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9." title="Fig. 2: Plan of Region I, insula ii, plan in Jashemski, Gardens, plan 5, p. 22; Viola, Scavi, pl. 1; Niccolini, Case, vol. 3, “Topo grafia,” pl. 9 (Rights Statement)." >}}
+{{< image file="Fig_3_I.ii.10_2.19.72.jpg" caption="Fig. 3: I.ii.10; 2.19.72, S. A. Jashemski." credit="" alt="" >}}
 
-### Images
-
-{{< image src="Fig_3_I.ii.10_2.19.72.jpg" alt="Fig. 3: I.ii.10; 2.19.72, S. A. Jashemski." title="Fig. 3: I.ii.10; 2.19.72, S. A. Jashemski." >}}
-
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Dates
+## Excavation Dates
 
 1873
 
-### Bibliography
+## Bibliography
 
 * Boyce, p. 22, no. 6.
-* Fiorelli, *Descr.*, p. 42. [(worldcat)](http://www.worldcat.org/oclc/908272023)
+* Fiorelli, *Descr.*, p. 42. [(worldcat)](https://search.worldcat.org/title/908272023)
 * <span style="color:green"> *GiornSc*, n.s., 3 (1874-1877), col. 57. </span>
-* Jashemski, *Gardens*, 1:1 10-1 1 1. [(worldcat)](http://www.worldcat.org/oclc/884024123)
-* Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](http://www.worldcat.org/oclc/921816405)
-* <span style="color:green"> Jashemski, *Gardens*, vol.II, p. 313. [(worldcat)](http://www.worldcat.org/oclc/921816405)</span>
+* Jashemski, *Gardens*, 1:1 10-1 1 1. [(worldcat)](https://search.worldcat.org/title/884024123)
+* Jashemski, *Gardens*, vol.II, p. 22. [(worldcat)](https://search.worldcat.org/title/921816405)
+* <span style="color:green"> Jashemski, *Gardens*, vol.II, p. 313. [(worldcat)](https://search.worldcat.org/title/921816405)</span>
 * Mau, *BdI* (1874), pp. 197-198.
-* Niccolini, *Case*, vol. 2, “Descr. Gen.,” p. 76.
-* <span style="color:green"> Schefold, *WandP*, p. 9 (describes this painting as a *paradeisos*, with sea, deer, panther, and nymphaeum). [(worldcat)](http://www.worldcat.org/oclc/637248120) </span>
-* <span style="color:green"> Sogliano, “Pitture,” p. 224, no. 694. [(worldcat)](http://www.worldcat.org/oclc/826597580) </span>
+* Niccolini, *Case*, vol. 2, "Descr. Gen.," p. 76.
+* <span style="color:green"> Schefold, *WandP*, p. 9 (describes this painting as a *paradeisos*, with sea, deer, panther, and nymphaeum). [(worldcat)](https://search.worldcat.org/title/637248120) </span>
+* <span style="color:green"> Sogliano, "Pitture," p. 224, no. 694. [(worldcat)](https://search.worldcat.org/title/826597580) </span>
 * Soprano, p.305, no. 23.
-* Viola, “*Scavi*” p. 11. [(worldcat)](http://www.worldcat.org/oclc/715087975)
+* Viola, "*Scavi*" p. 11. [(worldcat)](https://search.worldcat.org/title/715087975)
 
-<!--#### Periodo ID-->
+## Places
 
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
-#### Pleiades ID
-
-[433032](https://pleiades.stoa.org/places/433032)
-
-#### TGN ID
-
-[7004658](http://vocab.getty.edu/page/tgn/7004658)
-
-### Contributor
-
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-### Publication date
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
+- {{< id vocab="TGN" id="7004658" name="Pompeii (deserted settlement)" >}}
 
 
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

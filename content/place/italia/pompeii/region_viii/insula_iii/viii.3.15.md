@@ -3,73 +3,67 @@ gre_id: "9f8461dff9"
 aliases: [/id/9f8461dff9]
 type: garden
 title: "VIII.3.15. Caupona"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 422
+date: 2021-04-21
+modified: 2025-06-29
 draft: false
-
-categories:
-  - "Italia"
-tags:
-- "cauponae"
-- "pergolas"
-
 ---
 
 ## Province
-[Italia]({{<relref "../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+
+- [Italia]({{<relref "../../..">}})
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
-[Pompeii]({{<relref "../..">}}) \
-[Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+- [Pompeii]({{<relref "../..">}})
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
+
+## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region VIII]({{<relref "..">}})
 
 ## Insula
+
 [Insula III]({{<relref ".">}})
 
-### Keywords
- - [caupona](http://vocab.getty.edu/page/aat/300005208)
- - [podium](http://vocab.getty.edu/page/aat/300430533)
+## Keywords
 
+- {{< keyword "cauponae" >}}
+- {{< keyword "podiums (platforms)" >}}
+- {{< keyword "pergolas" >}}
 
-### Garden Description
+## Garden Description
+
 This caupona had originally been part of a house according to Fiorelli. The unusual building had a garden (a) in the northeast corner that occupied over one quarter of the house and contained a masonry stibadium, (3.50 m. at the widest dimension), perhaps the only one in Pompeii. A monopodium supported the table and all of this was possibly shaded by a pergola. A portico on the west and south was supported by two square pillars on the south side which were painted with vines. The garden was enclosed by a low wall on the west and south with an entrance on the west.
 
-### Plans
-{{< image src="fig.5._region_viii._insula_iii.png" alt="Plan of Region VIII Insula III" title="Plan of Region VIII Insula III" >}}
+## Plans
 
+{{< image file="fig.5._region_viii._insula_iii.png" caption="Plan of Region VIII Insula III" credit="" alt="" >}}
 
-#### Pleiades ID
-[432873](https://pleiades.stoa.org/places/538911200)
+## Places
 
-#### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/2053030)
+- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
+- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
 
-###  Excavation Dates
+##  Excavation Dates
+
 Unspecified
 
+## Bibliography
 
-### Bibliography
-* Breton, *Pompeia*, pp. 497-498 and drawing of stibadium on p. 498 [(worldcat)](http://www.worldcat.org/oclc/894211341)
-* Dyer, *Pompeii*, p. 316 [(worldcat)](http://www.worldcat.org/oclc/24327166)
-* Fiorelli, *Descrizione di Pompei*, pp. 326-327 [(worldcat)](http://www.worldcat.org/oclc/252039996)
-* Jashemski, *Gardens*, vol. II, p. 211 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees 1809-1810-1811*, 2:60 and pl. 12.1 (plan)[(worldcat)](http://www.worldcat.org/oclc/457565631)
-* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, “Descr. gen,” p. 66 [(worldcat)](http://www.worldcat.org/oclc/906755593)
-* Soprano, *'I triclini all' aperto di Pompei' In Pompeiana* pp. 306-307, no. 28 and fig. 28 on p. 291 [(worldcat)](http://www.worldcat.org/oclc/311371089)
-* Thédenat,*Pompei* 3rd ed. p. 90 and fig. 46 on p. 90. [(worldcat)](http://www.worldcat.org/oclc/612246417)
-
-### Contributor
-[Wilhelmina Jashemski](https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-### Publication date
-
-21 Apr 2021
+* Breton, *Pompeia*, pp. 497-498 and drawing of stibadium on p. 498 [(worldcat)](https://search.worldcat.org/title/894211341)
+* Dyer, *Pompeii*, p. 316 [(worldcat)](https://search.worldcat.org/title/24327166)
+* Fiorelli, *Descrizione di Pompei*, pp. 326-327 [(worldcat)](https://search.worldcat.org/title/252039996)
+* Jashemski, *Gardens*, vol. II, p. 211 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Mazois, *Les ruines de Pompei dessinees et mesurees pendant les annees 1809-1810-1811*, 2:60 and pl. 12.1 (plan)[(worldcat)](https://search.worldcat.org/title/457565631)
+* Niccolini, *Le case ed i monumenti di Pompei designati e descritti*, vol. 2, "Descr. gen," p. 66 [(worldcat)](https://search.worldcat.org/title/906755593)
+* Soprano, *'I triclini all' aperto di Pompei' In Pompeiana* pp. 306-307, no. 28 and fig. 28 on p. 291 [(worldcat)](https://search.worldcat.org/title/311371089)
+* Thédenat,*Pompei* 3rd ed. p. 90 and fig. 46 on p. 90. [(worldcat)](https://search.worldcat.org/title/612246417)

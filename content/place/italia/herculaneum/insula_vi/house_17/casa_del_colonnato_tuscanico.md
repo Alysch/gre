@@ -3,80 +3,64 @@ gre_id: "ed31244283"
 aliases: [/id/ed31244283]
 type: garden
 title: "Casa del Colonnato Tuscanico (VI.17/26)"
-date: 2020-10-10T00:10:10-04:00
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 557
+date: 2021-04-21
+modified: 2025-06-29
 draft: false
-
-
-categories:
-  - "Italia"
-tags:
- - "peristyle houses"
- - "porticoes"
 ---
 
 ## Province
 
-[Italia]({{<relref "../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
-
-
+- [Italia]({{<relref "../../..">}})
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 
-[Herculaneum]({{<relref "../..">}}) \
-[Herculaneum (Pleiades)](https://pleiades.stoa.org/places/432873)
+- [Herculaneum]({{<relref "../..">}})
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
-### Location Description
+## Location Description
+
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
-
 ## Insula
+
 [Insula VI]({{<relref "..">}})
 
 ## House
+
 [House 17]({{<relref ".">}})
 
 ## Garden
+
 Casa del Colonnato Tuscanico
 
+## Keywords
 
-### Keywords
- - [peristyle houses](http://vocab.getty.edu/page/aat/300005452)
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
+- {{< keyword "peristyle houses" >}}
+- {{< keyword "porticoes" >}}
 
+## Garden Description
 
-
-### Garden Description
 This house with an L-shaped floor plan had a peristyle garden (a) at the juncture of the two wings enclosed by a seventeen column portico. The garden entrance facing the large room to the north had double columns, and the garden could be approached from the atrium or from the entrance off the street on the west.
 
-### Plans
-{{< image src="herculaneum_vi_17.jpg" alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" title="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" >}}
-{{< image src="h_6_11-19_25-26-a.jpg" alt="Herculaneum VI.11-19,25-26-Case del Colonnato Tuscanico" title="Herculaneum VI.11-19,25-26-Case del Colonnato Tuscanico" >}}
+## Plans
 
+{{< image file="herculaneum_vi_17.jpg" caption="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)" credit="" alt="" >}}
+{{< image file="h_6_11-19_25-26-a.jpg" caption="Herculaneum VI.11-19,25-26-Case del Colonnato Tuscanico" credit="" alt="" >}}
 
+## Places
 
-#### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
+- {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
-#### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/7031897)
+## Dates
 
-### Dates
 Unspecified
 
-### Bibliography
-G.Cerulli Irelli, *La casa del Colonnato Tuscanico*, MemNap 7 (1974): 49 and fig. 1 (plan)[(worldcat)](http://www.worldcat.org/oclc/990804745)
+## Bibliography
 
-
-
-### Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-
-### Publication date
-
-21 Apr 2021
+G.Cerulli Irelli, *La casa del Colonnato Tuscanico*, MemNap 7 (1974): 49 and fig. 1 (plan)[(worldcat)](https://search.worldcat.org/title/990804745)

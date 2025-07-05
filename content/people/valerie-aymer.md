@@ -1,9 +1,8 @@
 ---
-date: 2025-06-14T13:33:50-04:00
-modified: 2025-06-14T13:33:50-04:00
 type: people
 title: Valerie Aymer
-draft: false
+date: 2025-06-18
+draft: true
 ---
 
 <!-- position title, institution -->
@@ -13,14 +12,10 @@ draft: false
 
 -->
 
-<!--
 ## Website
 
--->
+https://cals.cornell.edu/people/valerie-aymer
 
-<!--
-## Linked IDs
-{{< id src="" id="" title="" >}}
->
+{{< id vocab="ORCID" id="0000-0003-2609-0086" >}}
 
 <!-- Description -->

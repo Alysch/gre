@@ -3,106 +3,85 @@ gre_id: "902575a3a3"
 aliases: [/id/902575a3a3]
 type: garden
 title: "Casa del Mobilio Carbonizzato"
-date: 2020-09-29T12:00:02-05:00
+date: 2020-09-29
 latlon: [ 40.805843, 14.348058 ]
 author: Wilhelmina Jashemski
-editor: Tiffany Y. Fong
+contributor: Tiffany Y. Fong
 Jashemski-catalogue: 549
+modified: 2025-06-29
 draft: true
-
-categories:
- - "Italia"
 ---
 
 ## Province
 
-[Italia]({{<relref "../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
-
+- [Italia]({{<relref "../..">}})
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
 
- [Herculaneum]({{<relref "..">}}) \
- [Herculaneum (Pleiades)](https://pleiades.stoa.org/places/432873)
+- [Herculaneum]({{<relref "..">}}) \
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
 
+## Location Description
 
-### Location Description
 An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.
 
 ## Insula
+
 V
 
 ## House
+
 5
 
 ## Garden
+
 Casa del Mobilio Carbonizzato
 
-### Keywords
-- [fauces](http://vocab.getty.edu/page/aat/300007570)
-- [aedicula](http://vocab.getty.edu/page/aat/300004145)
-- [opus signinum](http://vocab.getty.edu/page/aat/300262690)
-- [aedicula lararium]()
-- [lararium]
+## Keywords
 
-### Garden Description
+- {{< keyword "fauces" >}}
+- {{< keyword "aedicules" >}}
+- {{< keyword "opus signinum" >}}
+- {{< keyword "lararia" >}}
+
+## Garden Description
+
 549.V.5.
 Visible from the *fauces*, this little courtyard (a) had an elaborate *aedicula* shrine which was excavated in 1932-1933. A low double wall with a gutter bordered the courtyard on the west and north sides with a cistern opening located in the center of the west edge of garden. Four small flower beds on the sides and a circular bed in the center had raised borders to retain the water for the plants within, and the remainder of the courtyard was paved in *opus signinum*. Jashemski commented that the garden had been restored with eleven such small planting beds. The east wall had traces of an animal painting on a blue background by the *aedicula lararium*. A deer was painted on the right side and several more indistinct animal forms were noted over the *lararium*. At the south end of this wall there were traces of leaves and a lattice fence suggesting a garden painting may have been located here.
-<!--### Maps-->
 
-<!--
-OLD WAY (DO NOT USE)
-![alt_text](../../images/image_name.ext)
-*CAPTION*
+<!-- ## Maps -->
 
-NEW WAY ↓↓↓↓
-{{< image src="../image_name.ext" alt="ALT_TEXT" title="CAPTION" >}}
--->
+<!-- the following images are not in gre-images...insula_v (but are in insula_iii) -->
 
-### Plans
-{{< image src="H_3_3-17.jpg" alt="Plan of Casa dell’Ara Laterizia" title="Plan of Casa dell’Ara Laterizia" >}}
+## Plans
 
-{{< image src="H_3_1-2_18-19.jpg" alt="Plan of Casa dell’Ara Laterizia" title="Plan of Casa dell’Ara Laterizia" >}}
+{{< image file="h_3_3-17.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
+{{< image file="h_3_1-2_18-19.jpg" caption="Plan of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
-### Images
+## Images
 
-{{< image src="Herc. III.19-18,1-2   17.2.78.jpg" alt="Illustration of Casa dell’Ara Laterizia" title="Illustration of Casa dell’Ara Laterizia" >}}
+{{< image file="herc.iii.19-18.1-2-17.2.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
-{{< image src="Herc.III.19-18,1-2   17.3.78.jpg" alt="Illustration of Casa dell’Ara Laterizia" title="Illustration of Casa dell’Ara Laterizia" >}}
+{{< image file="herc.iii.19-18.1-2-17.3.78.jpg" caption="Illustration of Casa dell'Ara Laterizia" credit="" alt="" >}}
 
-#### Pleiades ID
-[432873](https://pleiades.stoa.org/places/432873)
+## Places
 
-#### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/7031897)
+- {{< id vocab="Pleiades" id="432873" name="Herculaneum" >}}
+- {{< id vocab="TGN" id="7031897" name="Herculaneum (deserted settlement)" >}}
 
-
-### Dates
+## Dates
 
 unspecified
 
-#### Excavation Date
+## Excavation Date
 
 1932-1933
 
-### Bibliography
+## Bibliography
+
 - Jashemski, Gardens, vol.II, p. 370-371
 - Maiuri, Herculaneum,p. 44
 - Maiuri, Ercolano, pp.260-261 and fig. 203 (plan) on p. 256.
 
-<!--#### Periodo ID-->
-
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
-### Contributor
-
-Wilhelmina Jashemski [worldcat](http://worldcat.org/identities/lccn-n80037970/)
-
-### Publication date
-
-
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

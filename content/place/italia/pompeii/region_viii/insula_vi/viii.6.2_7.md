@@ -3,69 +3,65 @@ gre_id: "d1863ce1ab"
 aliases: [/id/d1863ce1ab]
 type: garden
 title: "VIII.6.2/7. (no. 12 at Pompeii)"
-date: 2021-03-26T00:10:10-04:00
 latlon: [ 0, 0 ]
 author: Wilhelmina Jashemski
-editor: Yifan Li
+contributor: Yifan Li
 jashemski-catalogue: 447
+date: 2021-04-21
+modified: 2025-06-29
 draft: false
-
-categories:
-  - "Italia"
-tags:
-  - "porticoes"
-
 ---
 
 ## Province
-[Italia]({{<relref "../../..">}}) \
-[Italia (Pleiades)](https://pleiades.stoa.org/places/1052)
+
+- [Italia]({{<relref "../../..">}})
+- {{< id vocab="Pleiades" id="1052" name="Italia" >}}
 
 ## Location
-[Pompeii]({{<relref "../..">}}) \
-[Pompeii (Pleiades)](https://pleiades.stoa.org/places/433032)
 
-### Location Description
+- [Pompeii]({{<relref "../..">}})
+- {{< id vocab="Pleiades" id="433032" name="Pompeii" >}}
+
+## Location Description
+
 An ancient city of Campania destroyed by the volcanic eruption of Mt. Vesuvius in A.D. 79, Pompeii was named as a UNESCO World Heritage Site in 1997.
 
 ## Sublocation
+
 [Region VIII]({{<relref "..">}})
 
 ## Insula
+
 [Insula VI]({{<relref ".">}})
 
-### Keywords
- - [porticoes](http://vocab.getty.edu/page/aat/300004145)
+## Keywords
 
-### Garden Description
+- {{< keyword "porticoes" >}}
+
+## Garden Description
+
 At the time of the eruption this site (a) was under construction. A portico was being built on the south and west sides using brick-shaped tufa columns and three old tufa columns. The columns on the south were salvaged from an earlier building. This was a large area, the intended use not clear. It may have been a garden previously.
 
-### Plans
-{{< image src="fig.20.region_viii.insula_vi.png" alt="Fig. 20, Plan of Region VIII, Insula VI" title="Fig. 20, Plan of Region VIII, Insula VI" >}}
+## Plans
 
-### Images
-{{< image src="fig.21.viii.6.2 12.31.59.jpg" alt="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" title="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" >}}
+{{< image file="fig.20.region_viii.insula_vi.png" caption="Fig. 20, Plan of Region VIII, Insula VI" credit="" alt="" >}}
 
+## Images
 
-#### Pleiades ID
-[432873](https://pleiades.stoa.org/places/538911200)
+{{< image file="fig.21.viii.6.2 12.31.59.jpg" caption="Fig.21, 12.31.59 (Stanley Jashemski, Jashemski Archives, University of Maryland)" credit="" alt="" >}}
 
-#### TGN ID
-[7031897](http://vocab.getty.edu/page/tgn/2053030)
+## Places
 
-###  Excavation Dates
+- {{< id vocab="Pleiades" id="538911200" name="Regio VIII, Pompeii" >}}
+- {{< id vocab="TGN" id="2053030" name="Pompeii (inhabited place)" >}}
+
+##  Excavation Dates
+
 Unspecified
 
-### Bibliography
-* *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), plan between pp. 170 and 171 where this garden is VIII.vii.[6][(worldcat)](http://www.worldcat.org/oclc/955010670)
-* Jashemski, *Gardens*, vol. II, p. 219 [(worldcat)](http://www.worldcat.org/oclc/1113367431)
-* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1884), p. 137 plan [(worldcat)](http://www.worldcat.org/oclc/823239162)
-* Sogliano, *Notizie degli scavi di Antichita* (1882), p. 281, 324, 359-360 [(worldcat)](http://www.worldcat.org/oclc/638883283)
+## Bibliography
 
-
-### Contributor
-Wilhelmina Jashemski (https://lib.guides.umd.edu/c.php?g=326514&p=2193250)
-
-### Publication date
-
-21 Apr 2021
+* *Bullettino dell'Instituto di Corrispondenza Archeologica* (1883), plan between pp. 170 and 171 where this garden is VIII.vii.[6][(worldcat)](https://search.worldcat.org/title/955010670)
+* Jashemski, *Gardens*, vol. II, p. 219 [(worldcat)](https://search.worldcat.org/title/1113367431)
+* Mau, *Bullettino dell'Instituto di Corrispondenza Archeologica* (1884), p. 137 plan [(worldcat)](https://search.worldcat.org/title/823239162)
+* Sogliano, *Notizie degli scavi di Antichita* (1882), p. 281, 324, 359-360 [(worldcat)](https://search.worldcat.org/title/638883283)

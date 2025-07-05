@@ -3,62 +3,36 @@ gre_id: "2240426c29"
 aliases: [/id/2240426c29]
 type: garden
 title: "Roman Palace in Fishbourne"
-date: 2020-07-09T18:05:37-04:00
 latlon: [ 50.836765, -0.809853 ]
 author: Kathryn Gleason
-editor: June Dorsch
+contributor: June Dorsch
+date: 2021-04-21
+modified: 2025-06-29
 draft: false
-
-categories:
- - "Britannia"
 ---
-
-## Province
-
-[Britannia]({{<relref "..">}})  
-
-<!--### Province Description-->
-
-<!-- DESCRIPTION -->
-
 
 ## Location
 
-[Fishbourne]({{<relref ".">}}) \
-[Fishbourne (Pleiades)](https://pleiades.stoa.org/places/79466)
-
-<!--### Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--### Sublocation Description-->
-
-<!-- DESCRIPTION -->
+- [Fishbourne]({{<relref ".">}})
+- {{< id vocab="Pleiades" id="79466" name="Fishbourne" >}}
 
 ## Garden
 
 Roman Palace in Fishbourne
 
-### Keywords
+## Keywords
 
-- [archaeological gardens](#)
-- [basins (vessels)](http://vocab.getty.edu/page/aat/300045614)
-- [colonnades](http://vocab.getty.edu/page/aat/300002613)
-- [loam](http://vocab.getty.edu/page/aat/300014335)
-- [palaces](http://vocab.getty.edu/page/aat/300005734)
-- [piscinae](http://vocab.getty.edu/page/aat/300375619)
-- [presence chambers](http://vocab.getty.edu/page/aat/300004445)
-- [terrace gardens](http://vocab.getty.edu/page/aat/300404778)
-- [vegetable gardens](http://vocab.getty.edu/page/aat/300008142)
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "basins" >}}
+- {{< keyword "colonnades" >}}
+- {{< keyword "loam" >}}
+- {{< keyword "palaces" >}}
+- {{< keyword "piscinae" >}}
+- {{< keyword "presence chambers" >}}
+- {{< keyword "terrace gardens" >}}
+- {{< keyword "vegetable gardens" >}}
 
-### Garden Description
+## Garden Description
 
 Fishbourne Roman Palace was accidentally discovered during the digging of a water main trench in 1960. The discovery led to nine seasons of excavations (1961-69) that showed the site had developed from a military base at the time of the Roman invasion in AD 43 to a sumptuous palace by the end of the first century CE. Carefully excavated by Barry Cunliffe, using techniques of environmental archaeology, the garden excavations at the palace have long served as a model in the development of Roman garden archaeology, although the findings did not initially prompt the investigation of other gardens in Britain. Today the site has been developed for display and education.
 
@@ -74,56 +48,38 @@ There is circumstantial evidence for there having been a vegetable garden in the
 
 Limited excavations to the south of the palace revealed an artificial terrace which bore evidence of landscaping, including a pool, a gravel path, possible bedding trenches and what may have been the base for a column or statue. Excavations to the east of the palace in the mid 1980's uncovered evidence for semi-formal gardens.
 
-<!-- ### Maps -->
+<!-- ## Maps -->
 
-### Plans
+## Plans
 
-{{< image src="fishbourne-fig-1.jpg" alt="Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace." title="Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace." >}}
+{{< image file="fishbourne-fig-1.jpg" caption="Fig. 1: Plan of the Roman Palace showing the position of the gardens." credit="Courtesy of David Rudkin for Fishbourne Roman Palace." alt="" >}}
 
-### Images
+## Images
 
-{{< image src="fishbourne-fig-2.jpg" alt="Fig. 2: View of formal garden excavation. Photo courtesy of David Rudkin for Fishbourne Roman Palace." title="Fig. 2: View of formal garden excavation. Photo courtesy of David Rudkin for Fishbourne Roman Palace." >}}
+{{< image file="fishbourne-fig-2.jpg" caption="Fig. 2: View of formal garden excavation." credit="Photo courtesy of David Rudkin for Fishbourne Roman Palace." alt="" >}}
 
-{{< image src="fishbourne-fig-3.jpg" alt="Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace." title="Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace." >}}
+{{< image file="fishbourne-fig-3.jpg" caption="Fig. 3: View of replanted formal garden." credit="Photo courtesy of David Rudkin for Fishbourne Roman Palace." alt="" >}}
 
-### Dates
+## Dates
 
 late 1st century CE - unspecified
 
-#### Excavation Dates
+## Excavation Dates
 
 1961-69, mid 1980s
 
-### Bibliography
+## Bibliography
 
 * M. Carroll, *Earthly Paradises. Ancient Gardens in History and Archaeology.* London: The British Museum Press, 2003, 86, fig. 66; 101, fig. 79
 * M. Carroll, They came, they saw, they gardened. *The Garden: Journal of the Royal Horticultural Society* 128.6, 2003, 460-463, figs. p. 462
-* Barry Cunliffe, *Excavations at Fishbourne, 1961-1969*, Vols I & II, The Society of Antiquaries, London, 1971.[(worldcat)](http://www.worldcat.org/oclc/34684874)
-* B. W. Cunliffe, A.G. Down, and D. Rudkin, *Excavations at Fishbourne 1969-1988*, Chichester, 1996.[(worldcat)](http://www.worldcat.org/oclc/228440436)
-* B. Cunliffe, *Fishbourne Roman Palace*, Tempus, 1998. [(worldcat)](http://www.worldcat.org/oclc/997465222)
-* Amina-Aïcha Malek, *A Sourcebook of Garden Archaeology*, Bern: Peter Lang, 2012.[(worldcat)](http://www.worldcat.org/oclc/865000398)
+* Barry Cunliffe, *Excavations at Fishbourne, 1961-1969*, Vols I & II, The Society of Antiquaries, London, 1971.[(worldcat)](https://search.worldcat.org/title/34684874)
+* B. W. Cunliffe, A.G. Down, and D. Rudkin, *Excavations at Fishbourne 1969-1988*, Chichester, 1996.[(worldcat)](https://search.worldcat.org/title/228440436)
+* B. Cunliffe, *Fishbourne Roman Palace*, Tempus, 1998. [(worldcat)](https://search.worldcat.org/title/997465222)
+* Amina-Aïcha Malek, *A Sourcebook of Garden Archaeology*, Bern: Peter Lang, 2012.[(worldcat)](https://search.worldcat.org/title/865000398)
 
-<!--#### Periodo ID-->
+## Places
 
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
-
-#### Pleiades ID
-
-[79466](https://pleiades.stoa.org/places/79466)
-
-#### TGN ID
-
-[7032567](http://vocab.getty.edu/page/tgn/7032567)
-
-### Contributor
-
-[Kathryn Gleason](https://classics.cornell.edu/kathryn-gleason) (ORCID:[0000-0001-6260-8378](https://orcid.org/0000-0001-6260-8378))
-
-### Publication date
+- {{< id vocab="Pleiades" id="79466" name="Fishbourne" >}}
+- {{< id vocab="TGN" id="7032567" name="Fishbourne Roman Palace (historic site)" >}}
 
 
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

@@ -1,9 +1,8 @@
 ---
-date: 2025-06-14T13:22:13-04:00
-modified: 2025-06-14T13:22:13-04:00
 type: people
 title: Annalisa Marzano
-draft: false
+date: 2025-06-26
+draft: falses
 ---
 
 <!-- position title, institution -->
@@ -13,14 +12,10 @@ draft: false
 
 -->
 
-<!--
 ## Website
 
--->
+https://www.reading.ac.uk/classics/about/staff/a-marzano.aspx
 
-<!--
-## Linked IDs
-{{< id src="" id="" title="" >}}
->
+{{< id vocab="ORCID" id="0000-0002-6485-9143" >}}
 
 <!-- Description -->

@@ -3,35 +3,25 @@ gre_id: "15b63838f2"
 aliases: [/id/15b63838f2]
 type: garden
 title: "Urban House"
-date: 2020-12-14T00:08:52-00:00
 latlon: [ 46.201961, 6.143798 ]
-author: AUTHOR_ID
-editor: Yvette Pollack
+author: Eric Morvillez
+contributor: Yvette Pollack
+date: 2021-04-21
+modified: 2025-06-29
 draft: true
-
-categories:
- - "Gallia Narbonensis"
 ---
 
-### Province
+## Province
 
-[Gallia_narbonensis]({{<relref "..">}}) \
-[Gallia_narbonensis (Pleiades)](https://pleiades.stoa.org/places/981537)
+- [Gallia_narbonensis]({{<relref "..">}})
+- {{< id vocab="Pleiades" id="981537" name="Gallia_narbonensis" >}}
 
-<!-- ### Province Description -->
-
-
+<!-- ## Province Description -->
 
 ## Location
 
-[Genava, ((Geneva, France)]({{<relref ".">}}) \
-[Genava](https://pleiades.stoa.org/places/177528)
-
-### Location Description
-
-<!--### Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
+- [Genava, ((Geneva, France)]({{<relref ".">}})
+- {{< id vocab="Pleiades" id="177528" name="Genava" >}}
 
 ## Sublocation
 
@@ -41,53 +31,36 @@ The Roman town, located at the western end of Lake Geneva at the confluence of t
 
 Urban House
 
-<!-- ### Keywords -->
-### Keywords
-- [peristyles (Roman courtyards)](http://vocab.getty.edu/page/aat/300080971)
-- [terrace](http://vocab.getty.edu/page/aat/300404778)
+<!-- ## Keywords -->
 
-### Garden Description
+## Keywords
+
+- {{< keyword "peristyles" >}}
+- {{< keyword "terrace gardens" >}}
+
+## Garden Description
 
 This badly preserved building situated on the Plateau des Tranchées was on a terraced slope overlooking Lake Geneva (Lacus Lemanus). Originally built between 20 and 40 A.D., and occupied until 180, the house had a central *peristyle courtyard* measuring 7.80 x 22 m. in size.
 Below the *peristyle* was a *terrace* where excavations uncovered a deposit 15 cm. thick of organically enriched soil. This evidence suggested to the excavators that the *terrace* was planted as a garden. Due to subsidence and shifting of masonry walls, the house was rebuilt between 50 and 70 without a *peristyle courtyard* or a *garden terrace*.
 
 <!-- text is from draft file -->
 
-### Plans
+## Plans
 
 None Available
 
-
-
-### Images
+## Images
 
 None Available
 
-### Dates
+<!-- ## Dates -->
 
+## Bibliography
 
-### Bibliography
+- M.-A. Haldimann, E. Ramjoué, and C. Simon, "Les fouilles de la cour de l'ancienne prison de Saint-Antoine," Archäologie der Schweiz 14, 1991:194-204. [(worldcat)](https://search.worldcat.org/title/891753412)
 
-- M.-A. Haldimann, E. Ramjoué, and C. Simon, “Les fouilles de la cour de l’ancienne prison de Saint-Antoine,” Archäologie der Schweiz 14, 1991:194-204. [(worldcat)](http://www.worldcat.org/oclc/891753412)
+## Places
 
-#### Pleiades ID
-
-[981537](https://pleiades.stoa.org/places/981537)
-
-#### TGN ID
-
-[7030317](http://vocab.getty.edu/page/tgn/7030317)
-[177528](https://pleiades.stoa.org/places/177528)
-
-### Contributor
-
-[AUTHOR_ID](link) (ORCID: [0000-0002-7384-1762](https://orcid.org/0000-0002-7384-1762))
-
-### Publication date
-
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->
+- {{< id vocab="Pleiades" id="981537" name="Narbonensis (province)" >}}
+- {{< id vocab="TGN" id="7030317" name="Gallia Narbonensis (province)" >}}
+- {{< id vocab="Pleiades" id="177528" name="Genava" >}}

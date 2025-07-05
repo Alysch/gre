@@ -1,14 +1,22 @@
 {{ define "main" }}
 <main class="main" role="main">
+    <h1>Jump to:</h1>
+    <ul style="margin-left:2em; margin-bottom:3em">
+        <li><a href="#places">All Places</a></li>
+        <li><a href="#gardens">All Gardens</a></li>
+        <li><a href="#linkedkeywords">Linked Keywords</a></li>
+    </ul>
+
+
     {{ $pages := sort (where .Site.RegularPages "Type" "place") "Path" }}
-    <h1>All places ({{ $pages.Len }})</h1>
+    <h1 id="places">All places ({{ $pages.Len }})</h1>
     <table class="meta" id="metaplace">
         <tr>
             <th>#</th>
             <th>path</th>
             <th>title</th>
             <th>author</th>
-            <th>editor</th>
+            <th>contributor</th>
             <th>date</th>
             <th>updated</th>
         </tr>
@@ -24,7 +32,7 @@
                     {{ if $draft }}<b>(DRAFT)</b>{{ end }}
                 </td>
                 <td>{{ htmlUnescape (replace $v.Params.Author ", " ",<br>") | safeHTML }}</td>
-                <td>{{ htmlUnescape (replace $v.Params.Editor ", " ",<br>") | safeHTML }}</td>
+                <td>{{ htmlUnescape (replace $v.Params.Contributor ", " ",<br>") | safeHTML }}</td>
                 <td class="date">{{ $v.Date.Format "2006-01-02" }}</td>
                 <td class="date">{{ $v.Lastmod.Format "2006-01-02" }}</td>
             </tr>
@@ -32,14 +40,14 @@
     </table>
     
     {{ $pages := sort (where .Site.RegularPages "Type" "garden") "Path" }}
-    <h1>All gardens ({{ $pages.Len }})</h1>
+    <h1 id="gardens">All gardens ({{ $pages.Len }})</h1>
     <table class="meta" id="metagarden">
         <tr>
             <th>#</th>
             <th>path</th>
             <th>title</th>
             <th>author</th>
-            <th>editor</th>
+            <th>contributor</th>
             <th>date</th>
             <th>updated</th>
         </tr>
@@ -55,12 +63,53 @@
                     {{ if $draft }}<b>(DRAFT)</b>{{ end }}
                 </td>
                 <td class="nowrap">{{ htmlUnescape (replace $v.Params.Author ", " ",<br>") | safeHTML }}</td>
-                <td class="nowrap">{{ htmlUnescape (replace $v.Params.Editor ", " ",<br>") | safeHTML }}</td>
+                <td class="nowrap">{{ htmlUnescape (replace $v.Params.Contributor ", " ",<br>") | safeHTML }}</td>
                 <td class="nowrap">{{ $v.Date.Format "2006-01-02" }}</td>
                 <td class="nowrap">{{ $v.Lastmod.Format "2006-01-02" }}</td>
             </tr>
         {{ end }}
     </table>
+
+    {{/* Load the list of known keywords */}}
+    {{- $keywords := dict -}}
+    {{- with resources.Get "keywords.csv" -}}
+        {{- $opts := dict "targetType" "slice" -}}
+        {{- $keywords = transform.Unmarshal $opts . -}}
+    {{- end -}}
+    <h1 id="linkedkeywords">Linked keywords ({{ len $keywords }})</h1>
+    {{ with $keywords }}
+        <table class="meta" id="metakeywords">
+            <thead>
+            <tr>
+                {{ range index . 0 }}
+                <th>{{ . }}</th>
+                {{ end }}
+            </tr>
+            </thead>
+            <tbody>
+            {{/* Iterate through each row (skipping the head, which we already did) */}}
+            {{ range . | after 1 }}
+                <tr>
+                {{ $term := "" }}
+                {{/* Iterate through each column */}}
+                {{ range $i, $v := . }}
+                    {{ if eq $i 0 }}
+                        {{/* remember term for the keyword link in the last column */}}
+                        {{ $term = $v }}
+                        <td>{{ $v }}</td>
+                    {{ else if eq $i 1 }}
+                        <td>{{ $v }}</td>
+                    {{ else if eq $i 2 }}
+                        <td>{{ partial "keyword-link" $term }}</td>
+                    {{ else }}
+                        <td>{{ $v }}</td>
+                    {{ end }}
+                {{ end }}
+                </tr>
+            {{ end }}
+            </tbody>
+        </table>
+    {{ end }}
 
     <!-- make tables sortable by clicking on headers -->
     <script>

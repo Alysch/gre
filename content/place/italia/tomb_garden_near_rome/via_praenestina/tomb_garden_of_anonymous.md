@@ -3,76 +3,50 @@ gre_id: "bb39f8e907"
 aliases: [/id/bb39f8e907]
 type: garden
 title: "Tomb Garden of Anonymous"
-date: 2020-11-29T10:54:29-07:00
 latlon: [ 41.649151, 13.194182 ]
 author: Maureen Carroll
-editor: Lingyi Xu
+contributor: Lingyi Xu
+date: 2020-11-29
+modified: 2025-06-29
 draft: true
-
-categories:
- - "italia"
 ---
-
-## Province
-[italia]({{<relref "..">}})
 
 ## Location
 
-[via latina]({{<relref ".">}}) \
-[via latina (Pleiades)](https://pleiades.stoa.org/places/93042695)
-
-<!--### Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
+- {{< id vocab="Pleiades" id="622606468" name="Via Praenestina" >}}
 
 ## Sublocation
 
-### Sublocation Description
+## Sublocation Description
 
 ## Garden
 
 Tomb Garden of Anonymous
 
-### Keywords
+## Keywords
 
-- [tombs](http://vocab.getty.edu/page/aat/300005926)
+- {{< keyword "tombs" >}}
 
-### Garden Description
-A funerary plaque (evidently complete) discovered in 1861 beside the Via Praenestina near Tor Sapienza records the dimensions of a tomb plot “with a garden enclosed by a wall” eighty-one and a half feet in frontage, forty-three and a half feet in depth (c. 320 square meters).		
+## Garden Description
 
-### Maps
+A funerary plaque (evidently complete) discovered in 1861 beside the Via Praenestina near Tor Sapienza records the dimensions of a tomb plot "with a garden enclosed by a wall" eighty-one and a half feet in frontage, forty-three and a half feet in depth (c. 320 square meters).
 
-<!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
--->
+<!-- ## Maps -->
 
-### Plans
+<!-- ## Plans -->
 
-### Images
+<!-- ## Images -->
 
-### Dates
+## Dates
+
 Unspecified
 
-### Bibliography
-- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian,  BCom 92 (1987-88) [1989][1989] 178 n. 20. [worldcat](https://www.worldcat.org/title/horti-sepulchrales-e-cepotaphia-nelle-iscrizioni-urbane/oclc/886794800&referer=brief_results)
+## Bibliography
 
-<!--#### Periodo ID-->
+- G.-L. Gregori, *Horti sepulchrales e cepotaphia nelle iscrizioni urbane*, Article : Italian, BCom 92 (1987-88) [1989] 178 n. 20. [worldcat](https://search.worldcat.org/title/886794800)
 
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+## Places
 
-#### Pleiades ID
+- {{< id vocab="Pleiades" id="622606468" name="Via Praenestina" >}}
 
-[93042695](https://pleiades.stoa.org/places/93042695)
 
-#### TGN ID
-[6006328](http://vocab.getty.edu/tgn/6006328)
-
-### Contributor
-
-[Maureen Carroll](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
-
-### Publication date
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->

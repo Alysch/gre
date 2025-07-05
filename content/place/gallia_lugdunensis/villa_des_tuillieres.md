@@ -3,49 +3,29 @@ gre_id: "3fc4c08a87"
 aliases: [/id/3fc4c08a87]
 type: garden
 title: "Villa des Tuillières"
-date: 2020-12-12T10:39:31-07:00
 latlon: [ 47.319533, 4.796299 ]
-author: AUTHOR_ID
-editor: Yvette Pollack
+author: Maureen Carroll
+contributor: Yvette Pollack
+date: 2021-04-21
+modified: 2025-06-29
 draft: true
-
-categories:
- - "Gallia"
- - "Gallia Lugdunensis"
 ---
-
-## Province
-[Gallia]({{<relref "..">}})
 
 ## Location
 
-[SELONGEY (Côte d'Or, France)]({{<relref ".">}}) \
-[SELONGEY (Pleiades)](https://pleiades.stoa.org/places/177578)
-
-<!--### Location Description-->
-
-<!-- LEAVE THIS BLANK FOR NOW -->
-
-<!--## Sublocation-->
-
-<!--
-[AREA WITHIN LOCATION, LIKE “PALATINE HILL”](GEOREFERENCE LINK)
-A sublocation is any area larger than an individual garden, but located within a location. I would always try to include a link to a controlled vocabulary here if possible. This ID may well be different from the Garden ID, e.g., Pompeii versus a Garden in one of the houses which has its own Pleiades ID.
--->
-
-<!--### Sublocation Description-->
-
-<!-- DESCRIPTION -->
+- [SELONGEY (Côte d'Or, France)]({{<relref ".">}})
 
 ## Garden
+
 Villa des Tuillières
 
-### Keywords
-- [courtyards](http://vocab.getty.edu/page/aat/300004095)
-- [porticos/porticus](http://vocab.getty.edu/page/aat/300004145)
-- [hypocausts](http://vocab.getty.edu/page/aat/300004277)
+## Keywords
 
-### Garden Description
+- {{< keyword "courtyards" >}}
+- {{< keyword "porticoes" >}}
+- {{< keyword "hypocausts" >}}
+
+## Garden Description
 
 The villa des Tuillières near Selongey was on a Roman road connecting Lyon and Trier. The *villa* was detected by aerial photography in 1973 and almost completely excavated by the private Association Archéologique de Fontaine-Française in advance of the construction of the motorway A 26/31 Langres – Dijon between 1976 and 1988.
 
@@ -59,52 +39,33 @@ The villa was destroyed during the barbarian invasion into Gaul in 256-8 AD, whi
 
 Furthermore, there is evidence of lentil (*Lens culinaris*) and broad bean (*Vicia faba*), which were most probably cultivated either in the gardens of the villa or on small fields in the vicinity. Carbonized scales from walnuts and uncarbonized fruit stones from peach (*Prunus persica*) and damson (*Prunus insititia*) indicate cultivation of fruit trees in the gardens while hazel (*Corylus avellana*) and sloe (*Prunus spinosa*) were most probably fruits collected from the wild.
 
-
-### Maps
-
-None Available
-
-### Plans
-
-None Available
-<!--
-{{< image src="FILENAME" alt="ALT_TEXT" title="CAPTION" >}}
--->
-
-### Images
+## Maps
 
 None Available
 
-### Dates
+## Plans
+
+None Available
+## Images
+
+None Available
+
+## Dates
+
 Unspecified
 
-### Bibliography
-- J.C. Beal with the collaboration of d'A. et A. Ruellet,  La resserre de Selongey (Côte d'Or): une collection d'objets de bois et d'ivoire dans la villa des Tuillières,» *Revue Archéologique de l'Est* xx
+## Bibliography
+
+- J.C. Beal with the collaboration of d'A. et A. Ruellet, La resserre de Selongey (Côte d'Or): une collection d'objets de bois et d'ivoire dans la villa des Tuillières,» *Revue Archéologique de l'Est* xx
 - E. Gauthier, M. Joly, « Vignoble et viticulture dans le centre-est de la Gaule au Ier siècle « .in: F. Favory/A. Vignot (eds.), Actualités de la Recherche en Histoire et Archéologie agraires. Actes du colloque international AGER V, Besançon 2000.
 - *Collection Annales Littéraires* No. 764, Série *Environnement*, sociétés et archéologie 5(2003) :191-208, Besançon;
-- A. Olivier, A. Ruellet, « Selongey, « La villa » In: Archéologie de Bourgogne. La Côte d'Or » Dijon, Musée Archéologique/Errance, Paris, 1990, pp. 77-78; A. Ruellet, « La villa des Tuillières à Selongey, » in L'autoroute au pays des Lingons. Archéologie et autoroute A31. Sociétés des autoroutes Paris-Rhin-Rhône, Dijon, 1989, pp. 34-39: A. and A. Ruellet, J.-C. Beal, « La villa de Selongey. » in Il était une fois la Côte d'Or. 20 ans de recherches archéologiques [exhibition catalogue Dijon, Musée archéologique], Paris, pp. 95-104; J. Wiethold, "’How to trace the 'Romanisation' of central Gaule by archaeobotanical analysis?” in F. Favory/A. Vignot (eds.), Actualités de la Recherche en Histoire et Archéologie agraires. Actes du colloque international AGER V, Besançon 2000. Collection Annales Littéraires No. 764, Série Environnement, sociétés et archéologie 5(2003) : 269-282.  <!-- No worldcat -->
-- Ch.W. Martin, Note sur les fouilles exécutées en 1876 sur l’emplacement de la station romaine de Ste-Marguerite-sur-Mer (Seine inférieure), in *Bulletin de la Société des Antiquaires de Normandie*, 1861, p. 319-326. [(worldcat)] (http://www.worldcat.org/oclc/1026569500)
-- abbé J. Loth, Fouilles de Ste-Marguerite-sur-Mer, in *Bulletin de la Commission des antiquités de la Seine-Inférieure*, Rouen, 1870, p. 68-75. [(worldcat)] (http://www.worldcat.org/oclc/812701053)
+- A. Olivier, A. Ruellet, « Selongey, « La villa » In: Archéologie de Bourgogne. La Côte d'Or » Dijon, Musée Archéologique/Errance, Paris, 1990, pp. 77-78; A. Ruellet, « La villa des Tuillières à Selongey, » in L'autoroute au pays des Lingons. Archéologie et autoroute A31. Sociétés des autoroutes Paris-Rhin-Rhône, Dijon, 1989, pp. 34-39: A. and A. Ruellet, J.-C. Beal, « La villa de Selongey. » in Il était une fois la Côte d'Or. 20 ans de recherches archéologiques [exhibition catalogue Dijon, Musée archéologique], Paris, pp. 95-104; J. Wiethold, "'How to trace the 'Romanisation' of central Gaule by archaeobotanical analysis?" in F. Favory/A. Vignot (eds.), Actualités de la Recherche en Histoire et Archéologie agraires. Actes du colloque international AGER V, Besançon 2000. Collection Annales Littéraires No. 764, Série Environnement, sociétés et archéologie 5(2003) : 269-282.  <!-- No worldcat -->
+- Ch.W. Martin, Note sur les fouilles exécutées en 1876 sur l'emplacement de la station romaine de Ste-Marguerite-sur-Mer (Seine inférieure), in *Bulletin de la Société des Antiquaires de Normandie*, 1861, p. 319-326. [(worldcat)](https://search.worldcat.org/title/1026569500)
+- abbé J. Loth, Fouilles de Ste-Marguerite-sur-Mer, in *Bulletin de la Commission des antiquités de la Seine-Inférieure*, Rouen, 1870, p. 68-75. [(worldcat)](https://search.worldcat.org/title/812701053)
 - <! -- In the process of being finalized: J.P. Darmon, Recueil "Erin Mckay" <emckay2@towson.edu>ise II, 5???, 1994 (ou 5 ???), n°:894-902, p.111-114; ???, in CAG Seine-maritime; 76, 20???, p. 497-500 (with detailed bibliography). -->
 
-<!--#### Periodo ID-->
+## Places
 
-<!-- [PERIODO_ID](https://pleiades.stoa.org/places/PLEIADES_ID) -->
+- {{< id vocab="Pleiades" id="177578" name="Mediolanum" >}}
+- {{< id vocab="TGN" id="6003548" name="Gallia Lugdunensis (province)" >}}
 
-#### Pleiades ID
-
-[177578](https://pleiades.stoa.org/places/177578)
-
-#### TGN ID
-[6003548](http://vocab.getty.edu/page/tgn/6003548)
-
-### Contributor
-[AUTHOR_ID](link) (ORCID: [0000-0001-9958-8032](https://orcid.org/0000-0001-9958-8032))
-
-### Publication date
-
-21 Apr 2021
-
-<!--### Related articles-->
-
-<!-- Links to other related articles. Leave blank for now -->
