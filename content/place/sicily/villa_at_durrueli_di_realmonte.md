@@ -49,9 +49,9 @@ There is a small semicircular basin (Farrar Type E) inserted in a secondary peri
 
 ## Bibliography
 
-R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 198–9  with figs 164 and 165.2.[(worldcat)](https://search.worldcat.org/title/608028740)
+R. J. A. Wilson, Sicily under the Roman Empire, Warminster, 1990, pp. 198-9  with figs 164 and 165.2.[(worldcat)](https://search.worldcat.org/title/608028740)
 
-M. Aoyagi, Ripresa eegli scavi nella villa romana di Realmonte, Kokalos 26–27 (1980–81):  668–73 [(worldcat)](https://search.worldcat.org/title/186378054)
+M. Aoyagi, Ripresa eegli scavi nella villa romana di Realmonte, Kokalos 26-27 (1980-81):  668-73 [(worldcat)](https://search.worldcat.org/title/186378054)
 
 ## Places
 

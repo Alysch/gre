@@ -79,7 +79,7 @@ The plan reveals seven rows of up to eleven pots per row, although directly in f
 
 {{< image file="ASIA_JUD_JERICHO_12.jpg" caption="Figure 4: Section extending from the Sunken Garden, through Garden B64, to the Southern Tell" credit="(K. Wilczak after Netzer 2001a: Ill. 478)." alt="" >}}
 
-{{< image file="ASIA_JUD_JERICHO_14.jpg" caption="Figure 5: A section through the Ionic Peristyle Courtyard B64 at the second row from the north:" credit="(a) gravel subsoil; (b) working surface; (c) planting pot; (d) planting pit; (e) ridges; (f) contoured garden-soil surface; (g) sidewalk; (h) alluvial deposit; (i) fallen building debris; (j) modern surface in 1978–1985 (K. Gleason)." alt="" >}}
+{{< image file="ASIA_JUD_JERICHO_14.jpg" caption="Figure 5: A section through the Ionic Peristyle Courtyard B64 at the second row from the north:" credit="(a) gravel subsoil; (b) working surface; (c) planting pot; (d) planting pit; (e) ridges; (f) contoured garden-soil surface; (g) sidewalk; (h) alluvial deposit; (i) fallen building debris; (j) modern surface in 1978-1985 (K. Gleason)." alt="" >}}
 
 {{< image file="ASIA_JUD_JERICHO_15.jpg" caption="Figure 6: A planting pot No. 23 found in the Ionic Peristyle Courtyard B64 (K. Gleason)." credit="" alt="" >}}
 

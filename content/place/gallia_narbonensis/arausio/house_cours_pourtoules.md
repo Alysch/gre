@@ -35,7 +35,7 @@ House Cours Pourtoules
 
 ## House Description
 
-In 1984 – 86, prior to construction of a parking garage, a large area of some 4,700 square meters was excavated south of the Cours Pourtoules. About a third of the ancient structures were reinforced and reburied; the rest was destroyed. The area encompassed  several ancient houses;  the one of interest to us is in the west insula.
+In 1984-86, prior to construction of a parking garage, a large area of some 4,700 square meters was excavated south of the Cours Pourtoules. About a third of the ancient structures were reinforced and reburied; the rest was destroyed. The area encompassed  several ancient houses;  the one of interest to us is in the west insula.
 
 ## Keywords
 
