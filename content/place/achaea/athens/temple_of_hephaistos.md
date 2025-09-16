@@ -7,35 +7,13 @@ latlon: [ 37.975646, 23.721409 ]
 author: Maureen Carroll
 contributor: Jane Millar, Amartya Shri
 date: 2021-04-21
-modified: 2025-06-29
+modified: 2025-09-15
 draft: false
 ---
 
-## Province Description
+## Dates
 
-Roman intervention in Greek political affairs resulted in conflicts that led to the destruction of Corinth in 146 B.C. and the sacking of Athens in 86 B.C. It was not until 27 B.C., however, that Augustus formally organized the Roman province of Achaea. Achaea consisted of the cities and territories of the southern Greek mainland between the Peloponnese and Thessaly, as well as Epirus in the northwest and the Ionian and some of the Aegean islands.
-The provincial capital was Corinth. Under Nero in the mid-1st century A.D. Epirus became a separate province, and in the mid-2nd century Thessaly was detached and added to the province of Macedonia. Under Roman domination many cities such as Athens, Sparta, Patras, and Corinth grew in size and prominence, the latter two partly owing to their importance as ports.  After an initial decline in the number of rural sites in the early Empire, by the late Roman period the countryside was densely settled with farms and villas, due to changing landholding patterns and Roman improvements in agricultural and irrigation technology. The main exports from Achaea were wine, particularly from the northern Peloponnese, as well as olive oil and honey, linen and woolen textiles and marbles.
-
-## Location
-
-- [Athens]({{<relref ".">}})
-- {{< id vocab="Pleiades" id="579885" name="Athens" >}}
-
-## Sublocation
-
-- {{< id vocab="Pleiades" id="807514119" name="Agora of Athens" >}}
-
-## Garden
-
-Temple of Hephaistos
-
-## Keywords
-
-<!-- - {{< keyword "archaeological gardens" >}} -->
-- [myrtle (*Myrtus communis*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:599719-1)
-- {{< keyword "pits" >}}
-- {{< keyword "flowerpots" >}}
-- [pomegranate (*Punica granatum*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:554129-1)
+3rd century BCE to the 3rd century CE
 
 ## Garden Description
 
@@ -49,15 +27,19 @@ On the western edge of the Athenian Agora on Kolonos hill was the [Temple of Hep
 
 <!-- ## Images -->
 
-## Dates
-
-3rd century BCE to the 3rd century CE
-
 ## Bibliography
 
 * D.B. Thompson, "The Garden of Hephaistos," *Hesperia* 6, 1937: 396-425. [(JSTOR)](https://www.jstor.org/stable/146648), [(ASCSA)](https://www.ascsa.edu.gr/uploads/media/hesperia/146648.pdf).
 * M. Carroll-Spillecke, "The gardens of Greece from Homeric to Roman times," *Journal of Garden History* 12.2, 1992: 90, figs. 10-11. [(worldcat)](https://search.worldcat.org/title/4898050192).
 * M. Carroll, "The sacred places of the immortal ones: ancient Greek and Roman sacred groves," in J. Woudstra and C. Roth (eds.), *A History of Groves.* London: Routledge, 2018: 22-23, fig 1.4. [(worldcat)](https://search.worldcat.org/title/1012849097).
+
+## Keywords
+
+<!-- - {{< keyword "archaeological gardens" >}} -->
+- {{< keyword "pits" >}}
+- {{< keyword "flowerpots" >}}
+- [myrtle (*Myrtus communis*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:599719-1)
+- [pomegranate (*Punica granatum*)](http://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:554129-1)
 
 ## Places
 
